@@ -1,0 +1,34 @@
+<?php
+
+$servername = 'localhost';
+$username	= 'jdiazort';
+$password	= 'JorOrt1102P';
+$database	= "hot100";
+
+$link = mysqli_connect($servername, $username, $password) 
+	or die('Could not connect: ' . mysql_error());
+
+mysqli_set_charset($link, 'utf8');
+
+mysqli_select_db($link, $database) or die('Could not select database');
+
+//echo 'before query';
+
+$query = 'select * from singles_backup order by track_id desc limit 10;';
+
+
+$result = mysqli_query($link, $query) or die('Query failed: ' . mysql_error());
+
+
+$temp_array = array();
+while($row = mysqli_fetch_assoc($result)){
+	$temp_array[] = $row;
+}
+
+
+$json_table =  json_encode($temp_array);
+
+echo $json_table;
+
+
+?>

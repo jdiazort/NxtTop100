@@ -1,0 +1,910 @@
+track_id	track_name	feat_artist	artist_id
+0	Written In	NULL	0
+1	Black Beatles	Gucci Mane	1
+2	Closer	Halsey	2
+3	Starboy	Daft Punk	3
+5	Let Me Love You	Justin Bieber	4
+5	Let Me Love You	Lil Wayne	36
+7	Side To Side	Nicki Minaj	5
+8	Juju On That Beat (TZ Anthem)	Zayion McCall	6
+9	Broccoli	Lil Yachty	7
+10	Don't Wanna Know	Kendrick Lamar	8
+11	I Hate U I Love U	Olivia O'Brien	9
+12	Cold Water	Justin Bieber	4
+12	Cold Water	MÃ˜	10
+14	Used To This	Drake	11
+15	Cheap Thrills	Sean Paul	12
+19	Starving	Grey	13
+19	Starving	Zedd	14
+21	The Greatest	Kendrick Lamar	8
+23	Don't Let Me Down	Daya	15
+27	This Is What You Came For	Rihanna	16
+29	Chill Bill	J. Davi$	17
+29	Chill Bill	Spooks	18
+30	May We All	Tim McGraw	19
+31	In The Name Of Love	Bebe Rexha	20
+32	One Dance	WizKid	21
+32	One Dance	Kyla	22
+35	Sucker For Pain	Wiz Khalifa	23
+35	Sucker For Pain	Imagine Dragons	24
+35	Sucker For Pain	Logic	25
+35	Sucker For Pain	Ty Dolla $ign	26
+35	Sucker For Pain	X Ambassadors	27
+37	X	Metro Boomin	28
+37	X	Future	29
+37	X	Chris Brown	30
+39	Do You Mind	Nicki Minaj	5
+39	Do You Mind	Future	29
+39	Do You Mind	Chris Brown	30
+39	Do You Mind	August Alsina	31
+39	Do You Mind	Jeremih	32
+39	Do You Mind	Rick Ross	33
+43	Sneakin'	21 Savage	34
+44	We Don't Talk Anymore	Selena Gomez	35
+45	Too Good	Rihanna	16
+46	No Problem	Lil Wayne	36
+46	No Problem	2 Chainz	37
+48	Setting The World On Fire	P!nk	38
+55	My Way	Monty	123
+56	Come And See Me	Drake	11
+57	No Heart	Metro Boomin	28
+58	Mercy	2 Chainz	37
+58	Mercy	Big Sean	72
+58	Mercy	Pusha T	223
+60	All We Know	Phoebe Ryan	39
+68	Too Much Sauce	Future	29
+68	Too Much Sauce	Lil Uzi Vert	40
+69	No Limit	Young Thug	41
+71	Setting Fires	XYLÃ˜	42
+73	Bad Things	Camila Cabello	43
+77	Key To The Streets	Migos	44
+77	Key To The Streets	Trouble	45
+79	Litty	Tory Lanez	46
+85	Capsize	Emily Warren	47
+93	All Eyez	Jeremih	32
+94	Wishing	Chris Brown	30
+94	Wishing	Skeme	48
+94	Wishing	Lyquin	49
+97	Greenlight	Flo Rida	50
+97	Greenlight	Lunchmoney Lewis	51
+101	Hymn For The Weekend	Seeb	52
+102	Froze	Nicki Minaj	5
+102	Froze	Lil Uzi Vert	40
+103	Offended	21 Savage	34
+103	Offended	Young Thug	41
+106	The Difference	Quavo	53
+109	Chantaje	Maluma	54
+116	Say It	Tove Lo	55
+117	This Girl	Cookin' On 3 Burners	56
+118	Why You Always Hatin?	Drake	11
+118	Why You Always Hatin?	Kamaiyah	57
+120	Lockjaw	Kodak Black	58
+121	You & Me	G-Eazy	59
+123	For Free	Drake	11
+124	Work From Home	Ty Dolla $ign	26
+127	Different For Girls	Elle King	60
+128	THat Part	Kanye West	61
+129	All In My Head (Flex)	Fetty Wap	62
+133	I Got The Keys	Future	29
+133	I Got The Keys	JAY Z	63
+136	You Don't Own Me	G-Eazy	59
+143	Low Life	The Weeknd	64
+145	Don't Touch My Hair	Sampha	65
+147	Work	Drake	11
+147	Work	French Montana	70
+147	Work	A$AP Rocky	124
+147	Work	ScHoolboy Q	175
+147	Work	Trinidad James	248
+149	Never Be Like You	kai	66
+153	Purple Lamborghini	Rick Ross	33
+156	No Shopping	Drake	11
+166	Deja Vu	Justin Bieber	4
+167	Make Me...	G-Eazy	59
+171	Sorry	Chris Brown	30
+171	Sorry	Jayla Beyonce Wright	67
+181	Duele El Corazon	Wisin	74
+193	Pop Style	The Throne	68
+198	Let It Go	Akon	281
+202	All The Way Up	JAY Z	63
+202	All The Way Up	Remy Ma	69
+202	All The Way Up	French Montana	70
+202	All The Way Up	InfaRed	71
+203	Close	Tove Lo	55
+207	Dangerous Woman	Nicki Minaj	5
+209	Holy Key	Kendrick Lamar	8
+209	Holy Key	Big Sean	72
+209	Holy Key	Betty Wright	73
+213	Make Me	G-Eazy	59
+216	P**** Print	Kanye West	61
+217	Light It Up	Nyla	75
+217	Light It Up	Fuse Odg	76
+219	Never Forget You	MNEK	77
+226	Body	Jeremih	32
+228	Me, Myself & I	Bebe Rexha	20
+234	La Bicicleta	Shakira	78
+235	Cut It	Young Dolph	79
+239	Messin' Around	Enrique Iglesias	80
+244	Think Of You	Cassadee Pope	81
+245	Grammys	Future	29
+247	Champions	Gucci Mane	1
+247	Champions	2 Chainz	37
+247	Champions	Quavo	53
+247	Champions	Big Sean	72
+247	Champions	Travis Scott	82
+247	Champions	Yo Gotti	83
+247	Champions	Desiigner	84
+257	With You	PARTYNEXTDOOR	85
+258	Might Not	The Weeknd	64
+259	Faded	Lil Wayne	36
+260	Middle	Bipolar Sunshine	86
+263	Nothing Is Promised	Rihanna	16
+265	Formation	OK DAC courtesy of Formation Records and Taciturn	87
+268	Law	E-40	88
+284	Roses	ROZES	89
+286	The Fighter	Carrie Underwood	90
+289	Faithful	Pimp C	91
+289	Faithful	dvsn	92
+290	Blessings	Drake	11
+292	Promise	Fetty Wap	62
+292	Promise	Usher	95
+293	Go Ahead And Break My Heart	Gwen Stefani	93
+306	True Colors	Kesha	94
+307	Views	WizKid	21
+307	Views	Kyla	22
+317	Jumpman	Future	29
+319	Back To Sleep	Usher	95
+319	Back To Sleep	ZAYN	96
+321	New Level	Future	29
+327	Hello	Dragonette	375
+328	Down In The DM	Nicki Minaj	5
+332	Saved	E-40	88
+338	Fast Car	Dakota	97
+341	Waves	Robin Schulz	192
+342	Sugar	Francesco Yates	98
+354	679	Remy Boyz	99
+357	Like I'm Gonna Lose You	John Legend	100
+361	I Know What You Did Last Summer	Camila Cabello	43
+363	Home Alone Tonight	Karen Fairchild	101
+375	Something New	Chris Brown	30
+384	Gotta Lotta	Lil Wayne	36
+387	See You Again	Charlie Puth	102
+389	Hello Friday	Jason Derulo	103
+391	$ave Dat Money	Fetty Wap	62
+391	$ave Dat Money	Rich Homie Quan	104
+391	$ave Dat Money	Homie Quan	105
+398	Hollow	Big Sean	72
+401	Uptown Funk!	Bruno Mars	106
+404	Confident	Chance The Rapper	183
+408	Bang My Head	Fetty Wap	62
+408	Bang My Head	Sia	107
+409	Irresistible	Demi Lovato	108
+411	Dessert	SilentÃ³	109
+412	Watch Me	Zendaya	379
+412	Watch Me	Cast of Shake It Up: Break It Down	380
+414	Bake Sale	Travis Scott	82
+416	WTF (Where They From)	Pharrell Williams	110
+418	The Fix	Jeremih	32
+421	Big Rings	Future	29
+423	Back Up	Big Sean	72
+424	Jam	Ty Dolla $ign	26
+424	Jam	Jamie Foxx	111
+424	Jam	Trey Songz	112
+426	Play No Games	Ty Dolla $ign	26
+426	Play No Games	Chris Brown	30
+432	Bottom Of The Bottle	August Alsina	31
+432	Bottom Of The Bottle	Lil Wayne	36
+433	Locked Away	Adam Levine	113
+437	Lay It All On Me	Ed Sheeran	114
+445	Under Pressure	Queen	115
+450	Blase	Future	29
+450	Blase	Rae Sremmurd	116
+451	Where Ya At	Drake	11
+452	Where Are U Now	Justin Bieber	4
+452	Where Are U Now	Skrillex	117
+452	Where Are U Now	Diplo	118
+453	Downtown	Grandmaster Melle Mel	119
+453	Downtown	Kool Moe Dee	120
+453	Downtown	Grandmaster Caz	121
+453	Downtown	Eric Nally	122
+461	The Feeling	Halsey	2
+463	Jugg	Monty	123
+471	Good For You	A$AP Rocky	124
+479	God Only Knows	Adam Levine	113
+485	No Pressure	Big Sean	72
+487	Drifting	Chris Brown	30
+487	Drifting	Tory Lanez	46
+491	How Deep Is Your Love	Disciples	125
+493	No Sense	Travis Scott	82
+509	We Are	Nas	126
+523	Diamonds Dancing	Future	29
+530	All Eyes On You	Nicki Minaj	5
+531	Scholarships	Future	29
+532	Digital Dash	Future	29
+534	Marvin Gaye	Meghan Trainor	127
+538	Nothing But Trouble (Instagram Models)	Charlie Puth	102
+539	Powerful	Ellie Goulding	128
+539	Powerful	Tarrus Riley	129
+540	100	Drake	11
+542	Worth It	Kid Ink	130
+546	Live From The Gutter	Future	29
+547	I'm The Plug	Future	29
+551	El Perdon (Forgiveness)	Enrique Iglesias	80
+553	Fly	Rihanna	16
+554	Change Locations	Future	29
+555	Love Me	Drake	11
+555	Love Me	Future	29
+559	Plastic Bag	Future	29
+563	Hold Each Other	Futuristic	131
+568	Classic Man	Roman GianArthur	132
+571	Runnin' (Lose It All)	BeyoncÃ©	133
+571	Runnin' (Lose It All)	Arrow Benjamin	134
+572	I Don't Like It, I Love It	Robin Thicke	135
+572	I Don't Like It, I Love It	Verdine White	136
+574	R.I.C.O.	Drake	11
+575	Post To Be	Chris Brown	30
+575	Post To Be	Jhene Aiko	137
+582	Firestone	Conrad Sewell	138
+584	Prisoner	Lana Del Rey	139
+585	Dark Times	Ed Sheeran	114
+586	Beautiful Now	Jon Bellion	140
+586	Beautiful Now	Lophiile	141
+588	Rotten To The Core	Cameron Boyce	142
+588	Rotten To The Core	Booboo Stewart	143
+588	Rotten To The Core	Sofia Carson	144
+589	Burn Slow	Rae Sremmurd	116
+590	Do It Again	Chris Brown	30
+590	Do It Again	Tyga	145
+591	One Man Can Change The World	Kanye West	61
+591	One Man Can Change The World	John Legend	100
+593	Omen	Sam Smith	146
+596	Hey Mama	Nicki Minaj	5
+596	Hey Mama	Bebe Rexha	20
+596	Hey Mama	Afrojack	147
+597	El Perdon	Enrique Iglesias	80
+599	Losers	Labrinth	148
+607	Be Real	Dej Loaf	149
+617	Fun	Chris Brown	30
+618	How Many Times	Chris Brown	30
+618	How Many Times	Lil Wayne	36
+618	How Many Times	Big Sean	72
+620	You Know You Like It	AlunaGeorge	150
+630	The Matrimony	Usher	95
+631	Good Thing	Nick Jonas	151
+635	No Sleeep	J. Cole	152
+639	Kings Never Die	Gwen Stefani	93
+640	Yoga	Jidenna	153
+641	Back It Up	Jennifer Lopez	154
+641	Back It Up	Pitbull	155
+648	Somebody	Jeremih	32
+653	Lord Knows	Tory Lanez	46
+654	Jump Out The Face	Future	29
+655	Hood Go Crazy	2 Chainz	37
+655	Hood Go Crazy	B.o.B	156
+656	G.D.F.R.	Lookas	157
+656	G.D.F.R.	Sage The Gemini	158
+658	Bad For You	Nicki Minaj	5
+659	Diamond Rings And Old Barstools	Catherine Dunn	159
+661	Brother	Gavin DeGraw	160
+664	Coffee	Wale	161
+671	Wild Child	Grace Potter	162
+672	I Need Your Love	Ellie Goulding	128
+672	I Need Your Love	Mohombi	163
+672	I Need Your Love	Faydee	164
+672	I Need Your Love	Costi	165
+673	B**** I'm Madonna	Nicki Minaj	5
+674	Pretty Girls	Iggy Azalea	166
+674	Pretty Girls	Travie McCoy	365
+677	Lay Me Down	John Legend	100
+682	Nasty	Dro	167
+683	Time Of Our Lives	Ne-Yo	168
+685	3500	Future	29
+685	3500	2 Chainz	37
+686	All Day	Theophilus London	169
+686	All Day	Allan Kingdom	170
+686	All Day	Paul McCartney	171
+687	I Want You To Know	Selena Gomez	35
+687	I Want You To Know	Lophiile	141
+689	Everyday	Rod Stewart	172
+689	Everyday	Miguel	173
+689	Everyday	Mark Ronson	174
+692	Truffle Butter	Drake	11
+692	Truffle Butter	Lil Wayne	36
+693	FourFiveSeconds	Kanye West	61
+693	FourFiveSeconds	Paul McCartney	171
+694	Electric Body	ScHoolboy Q	175
+695	You Changed Me	Chris Brown	30
+696	Get Low	Nicki Minaj	5
+696	Get Low	Tyga	145
+696	Get Low	DJ Snake	176
+702	Raise 'Em Up	Eric Church	177
+704	Feeling Myself	BeyoncÃ©	133
+706	Ayo	Tyga	145
+711	Throw Sum Mo	Nicki Minaj	5
+711	Throw Sum Mo	Young Thug	41
+731	I Don't Mind	Juicy J	178
+734	Outside	Ellie Goulding	128
+737	Ride Out	Rich Homie Quan	104
+737	Ride Out	Tyga	145
+737	Ride Out	Wale	161
+737	Ride Out	YG	179
+738	Trouble	Jennifer Hudson	180
+740	Only	Drake	11
+740	Only	Chris Brown	30
+740	Only	Lil Wayne	36
+741	Jealous	Tinashe	181
+748	I Don't F**k With You	E-40	88
+751	Go Hard Or Go Home	Iggy Azalea	166
+753	Good Lovin	Miguel	173
+757	She Knows	Juicy J	178
+763	Lonely Tonight	Ashley Monroe	182
+764	Baby Blue	Chance The Rapper	183
+774	Wesley's Theory	George Clinton	184
+774	Wesley's Theory	Thundercat	185
+776	These Walls	Thundercat	185
+776	These Walls	Bilal	186
+776	These Walls	Anna Wise	187
+777	Institutionalized	Bilal	186
+777	Institutionalized	Anna Wise	187
+777	Institutionalized	Snoop Dogg	188
+778	The Hanging Tree	Jennifer Lawrence	189
+783	Love Me Harder	The Weeknd	64
+787	Adore	Ariana Grande	190
+791	Not For Long	Trey Songz	112
+792	Glory	John Legend	100
+793	Bang Bang	Nicki Minaj	5
+793	Bang Bang	Ariana Grande	190
+796	All Your Fault	Kanye West	61
+798	Stuck On A Feeling	Snoop Dogg	188
+799	Only One	Paul McCartney	171
+800	Paradise	Drake	11
+802	Tuesday	Drake	11
+805	Preach	PARTYNEXTDOOR	85
+807	Used To	Lil Wayne	36
+810	Shots	Broiler	191
+811	The Body	Jeremih	32
+815	Heroes (We Could Be)	Tove Lo	55
+824	Body Language	Usher	95
+824	Body Language	Tinashe	181
+829	Hotel	Chris Brown	30
+831	Out The Speakers	Milo & Otis	193
+831	Out The Speakers	Rich Kidz	194
+832	I Mean It	Remo	195
+834	All About It	Ed Sheeran	114
+836	Dangerous	Sam Martin	196
+840	Don't Tell 'Em	YG	179
+841	Black Widow	Rita Ora	197
+842	Blame	John Newman	198
+844	Touchin, Lovin	Nicki Minaj	5
+845	Hold You Down	Future	29
+845	Hold You Down	Chris Brown	30
+845	Hold You Down	August Alsina	31
+845	Hold You Down	Jeremih	32
+846	No Love	Nicki Minaj	5
+848	Rather Be	Jess Glynne	199
+856	Lifestyle	Young Thug	41
+856	Lifestyle	Rich Homie Quan	104
+860	Bed Of Lies	Skylar Grey	200
+865	Burnin' Up	2 Chainz	37
+868	Shell Shocked	Wiz Khalifa	23
+868	Shell Shocked	Ty Dolla $ign	26
+868	Shell Shocked	Madsonik	201
+868	Shell Shocked	Kill The Noise	202
+869	Title	John Legend	100
+873	About The Money	Young Thug	41
+875	Lost Without U	Adam Levine	113
+877	Lost Stars	Adam Levine	113
+879	Get On Your Knees	Ariana Grande	190
+880	Fireball	John Ryan	203
+882	New Flame	Rick Ross	33
+882	New Flame	Usher	95
+888	Come Join The Murder	The Forest Rangers	204
+898	Break Free	Zedd	14
+899	Fancy	Charli XCX	205
+900	Guts Over Fear	Sia	107
+907	Bailando	Descemer Bueno	206
+907	Bailando	Gente De Zona	207
+912	Baby It's Cold Outside	Michael BublÃ©	208
+917	You And Your Friends	Ty Dolla $ign	26
+917	You And Your Friends	Snoop Dogg	188
+927	Made Me	K CAMP	209
+929	Secrets	B.o.B	156
+931	Latch	Sam Smith	146
+932	No Mediocre	Iggy Azalea	166
+938	Small Town Throwdown	Justin Moore	210
+938	Small Town Throwdown	Thomas Rhett	211
+940	Hookah	Young Thug	41
+942	U Guessed It	2 Chainz	37
+943	2 On	ScHoolboy Q	175
+944	Problem	Iggy Azalea	166
+945	Dark Horse	Juicy J	178
+949	Studio	BJ The Chicago Kid	212
+950	EW!	will.i.am	213
+954	Believe Me	Drake	11
+959	Somethin' Bad	Carrie Underwood	90
+962	Really Don't Care	Cher Lloyd	214
+965	Meanwhile Back At Mama's	Faith Hill	215
+968	Bend Ova	Tyga	145
+970	Main Chick	Chris Brown	30
+973	Wiggle	Snoop Dogg	188
+982	Love Never Felt So Good	Justin Timberlake	216
+983	Seen It All	JAY Z	63
+987	Turn Down For What	Lil Jon	217
+990	Delirious (Boneless)	Kid Ink	130
+990	Delirious (Boneless)	Chris Lake	218
+990	Delirious (Boneless)	Tujamo	219
+997	Best Mistake	Big Sean	72
+1004	Wasted	Matthew Koma	220
+1008	This Is How We Roll	Luke Bryan	229
+1011	My Eyes	Gwen Sebastian	221
+1018	Talk Dirty	2 Chainz	37
+1020	Or Nah	Wiz Khalifa	23
+1020	Or Nah	The Weeknd	64
+1020	Or Nah	DJ Mustard	222
+1025	Who Do You Love?	Drake	11
+1032	Trophies	Drake	11
+1036	Move That Doh	Pharrell Williams	110
+1036	Move That Doh	Pusha T	223
+1036	Move That Doh	Casino	224
+1039	Timber	Kesha	94
+1040	La La La	Sam Smith	146
+1045	We Are One (Ole Ola) [The 2014 FIFA World Cup Official Song]	Jennifer Lopez	154
+1045	We Are One (Ole Ola) [The 2014 FIFA World Cup Official Song]	Claudia Leitte	225
+1047	Ten Feet Tall	Wrabel	226
+1050	Jungle	Jamie N Commons	227
+1053	Wild Wild Love	G.R.L.	228
+1062	Hangover	Flo Rida	50
+1062	Hangover	Snoop Dogg	188
+1068	Show Me	Chris Brown	30
+1072	Magic	T.I.	240
+1077	Mmm Yeah	Pitbull	155
+1082	Part II (On The Run)	BeyoncÃ©	133
+1083	I Won	Kanye West	61
+1088	Somebody That I Used To Know	Adam Levine	113
+1088	Somebody That I Used To Know	Kimbra	307
+1093	Can't Remember To Forget You	Rihanna	16
+1095	Headlights	Nate Ruess	230
+1096	The Monster	Rihanna	16
+1100	One	Michelle Chamuel	289
+1115	Say Something	Christina Aguilera	231
+1117	Drunk In Love	JAY Z	63
+1118	Paranoid	B.o.B	156
+1119	Hold On, We're Going Home	Majid Jordan	239
+1122	For The First Time In Forever	Idina Menzel	232
+1126	John Doe	Priscilla	233
+1127	Do You Want To Build A Snowman?	Agatha Lee Monn	234
+1127	Do You Want To Build A Snowman?	Katie Lopez	235
+1136	Feelin' Myself	Wiz Khalifa	23
+1136	Feelin' Myself	French Montana	70
+1136	Feelin' Myself	DJ Mustard	222
+1136	Feelin' Myself	Miley Cyrus	236
+1138	My Hitta	Rich Homie Quan	104
+1138	My Hitta	Jeezy	237
+1144	Take Me Home	Bebe Rexha	20
+1145	Odio	Drake	11
+1147	Up Down (Do This All Day)	B.o.B	156
+1148	Love Is An Open Door	Santino Fontana	238
+1159	I Luh Ya Papi	French Montana	70
+1164	Blurred Lines	Pharrell Williams	110
+1164	Blurred Lines	T.I.	240
+1166	Sanctified	Kanye West	61
+1166	Sanctified	Big Sean	72
+1169	The Devil Is A Lie	JAY Z	63
+1171	Adrenalina	Jennifer Lopez	154
+1171	Adrenalina	Ricky Martin	241
+1179	Stay	Mikky Ekko	272
+1180	Everything Is AWESOME!!!	The Lonely Island	242
+1183	Collard Greens	Kendrick Lamar	8
+1184	Do What U Want	R. Kelly	243
+1188	23	Wiz Khalifa	23
+1188	23	Juicy J	178
+1188	23	Miley Cyrus	236
+1191	Thinking About You	Ayah Marar	244
+1192	Stay The Night	Hayley Williams	245
+1194	It Won't Stop	Chris Brown	30
+1198	All Me	2 Chainz	37
+1198	All Me	Big Sean	72
+1205	m.A.A.d City	MC Eiht	246
+1208	El Perdedor	Marco Antonio SolÃ­s	247
+1213	Love More	Nicki Minaj	5
+1217	I Luv This Sh*t	Trinidad James	248
+1221	Holy Grail	Justin Timberlake	216
+1223	Gas Pedal	Iamsu!	249
+1233	Bounce It	Trey Songz	112
+1233	Bounce It	Wale	161
+1234	Everybody's Got Somebody But Me	Jason Mraz	250
+1235	Old School Love	Ed Sheeran	114
+1237	HeadBand	2 Chainz	37
+1239	Mine	Drake	11
+1242	Lolly	Justin Bieber	4
+1242	Lolly	Juicy J	178
+1244	Who You Love	Katy Perry	251
+1248	Let It Be	Adam Levine	113
+1250	Summertime Sadness	Cedric Gervais	252
+1251	Saturday	Dave Days	253
+1256	My Story	2 Chainz	37
+1258	Pound Cake / Paris Morton Music 2	JAY Z	63
+1259	Right There	Big Sean	72
+1259	Right There	50 Cent	377
+1261	Beware	Lil Wayne	36
+1261	Beware	Jhene Aiko	137
+1278	PYD	R. Kelly	243
+1283	Rough Water	Jason Mraz	250
+1287	Everything Has Changed	Alex G	254
+1287	Everything Has Changed	Jon D	255
+1288	Dope	Rick Ross	33
+1297	Give It 2 U	Kendrick Lamar	8
+1299	Beautiful Pain	Sia	107
+1300	Let Me Go	Chad Kroeger	256
+1303	Clarity	Foxes	257
+1304	Crooked Smile	TLC	258
+1305	Get Lucky	Pharrell Williams	110
+1305	Get Lucky	Nile Rodgers	259
+1307	True Love	Lily Allen	260
+1313	Wait For A Minute	Justin Bieber	4
+1319	Just Give Me A Reason	Nate Ruess	230
+1323	Cruise	Nelly	261
+1330	Loco	Romeo Santos	262
+1331	Gone	Consequence	263
+1331	Gone	Cam'Ron	264
+1333	Same Love	Ryan Lewis	265
+1333	Same Love	Mary Lambert	266
+1333	Same Love	Macklemore	267
+1339	From Time	Jhene Aiko	137
+1342	Bruises	Ashley Monroe	182
+1350	Feds Watching	Pharrell Williams	110
+1352	The Way	Mac Miller	268
+1359	This Is What It Feels Like	Trevor Guthrie	269
+1360	Tapout	Nicki Minaj	5
+1360	Tapout	Future	29
+1360	Tapout	Lil Wayne	36
+1360	Tapout	Birdman	270
+1360	Tapout	Mack Maine	271
+1364	Easy	Natasha Bedingfield	311
+1368	Beneath Your Beautiful	Emeli SandÃ©	273
+1370	I Do It	Drake	11
+1370	I Do It	Lil Wayne	36
+1371	Popular Song	Ariana Grande	190
+1380	Almost Is Never Enough	Ariana Grande	190
+1384	Versace	Drake	11
+1385	Act Right	YG	179
+1385	Act Right	Jeezy	237
+1386	Oh Sweet Lorraine	Jacob Colgan	274
+1386	Oh Sweet Lorraine	Fred Stobaugh	275
+1387	Power Trip	Miguel	173
+1394	No New Friends (SFTB Remix)	Drake	11
+1394	No New Friends (SFTB Remix)	Rick Ross	33
+1394	No New Friends (SFTB Remix)	Lil Wayne	36
+1398	#Beautiful	Miguel	173
+1401	LoveHate Thing	Sam Dew	276
+1402	Beat It	Wiz Khalifa	23
+1402	Beat It	Chris Brown	30
+1403	Boys 'Round Here	Pistol Annies & Friends	277
+1405	I Love It	Charli XCX	205
+1407	Right Now	David Guetta	278
+1410	Without Me	Kelly Rowland	279
+1410	Without Me	Missy Elliott	280
+1411	Bad	Tiara Thomas	291
+1422	Rich As F**k	2 Chainz	37
+1425	I'm Out	Nicki Minaj	5
+1427	Play Hard	Ne-Yo	168
+1427	Play Hard	Akon	281
+1429	Miss Jackson	LOLO	282
+1436	Highway Don't Care	Taylor Swift	283
+1436	Highway Don't Care	Keith Urban	284
+1439	Oceans	Frank Ocean	285
+1445	Feel This Moment	Christina Aguilera	231
+1446	Suit & Tie	JAY Z	63
+1449	Don't Think They Know	Aaliyah	286
+1450	High School	Lil Wayne	36
+1451	#thatPOWER	Justin Bieber	4
+1452	We Own It (Fast & Furious)	Wiz Khalifa	23
+1454	We Still In This B****	Juicy J	178
+1454	We Still In This B****	T.I.	240
+1456	Bugatti	Future	29
+1456	Bugatti	Rick Ross	33
+1459	Wild For The Night	Skrillex	117
+1459	Wild For The Night	Birdy Nam Nam	287
+1459	Wild For The Night	Lord Flacko	288
+1471	Live It Up	Pitbull	155
+1477	Loveeeeeee Song	Future	29
+1478	Ready	Chris Brown	30
+1481	No New Friends	Drake	11
+1481	No New Friends	Rick Ross	33
+1481	No New Friends	Lil Wayne	36
+1487	Molly	Wiz Khalifa	23
+1487	Molly	Cedric Gervais	252
+1487	Molly	Mally Mall	290
+1491	Troublemaker	Flo Rida	50
+1494	Clouds	Zach Sobiech	292
+1500	A Little Party Never Killed Nobody (All We Got)	Q-Tip	293
+1500	A Little Party Never Killed Nobody (All We Got)	GoonRock	294
+1502	Karate Chop (Remix)	Lil Wayne	36
+1509	Scream & Shout	Britney Spears	295
+1510	Sweet Nothing	Florence Welch	296
+1511	Battle Scars	Guy Sebastian	297
+1512	Tonight I'm Getting Over You	Nicki Minaj	5
+1513	R.I.P.	2 Chainz	37
+1515	Don't You Worry Child	John Martin	298
+1517	I Hit It First	Bobby Brackins	299
+1519	Sexy People (The Fiat Song)	Pitbull	155
+1521	Freaks	Nicki Minaj	5
+1526	All Around The World	Ludacris	300
+1529	Fall Down	Miley Cyrus	236
+1530	If I Lose Myself	Alesso	301
+1531	Neva End	Kelly Rowland	279
+1532	Accidental Racist	LL Cool J	302
+1533	Don't Rush	Vince Gill	303
+1540	Poetic Justice	Drake	11
+1549	Girl On Fire	Nicki Minaj	5
+1555	Beauty And A Beat	Nicki Minaj	5
+1561	The Only Way I Know	Eric Church	177
+1561	The Only Way I Know	Luke Bryan	229
+1564	Hall Of Fame	William	304
+1569	So Many Girls	Tyga	145
+1569	So Many Girls	Wale	161
+1569	So Many Girls	Roscoe Dash	305
+1577	Remember You	The Weeknd	64
+1578	As Your Friend	Chris Brown	30
+1581	Don't Stop The Party	TJR	306
+1582	Ball	Lil Wayne	36
+1597	She Don't Put It Down	Lil Wayne	36
+1597	She Don't Put It Down	Tank	308
+1603	Clique	JAY Z	63
+1603	Clique	Big Sean	72
+1605	No Worries	Detail	309
+1606	YOLO	Kendrick Lamar	8
+1606	YOLO	Adam Levine	113
+1614	Bandz A Make Her Dance	Lil Wayne	36
+1614	Bandz A Make Her Dance	2 Chainz	37
+1615	Rest Of My Life	Usher	95
+1615	Rest Of My Life	David Guetta	278
+1616	Bad Ass	Wale	161
+1616	Bad Ass	Meek Mill	310
+1618	Celebration	Wiz Khalifa	23
+1618	Celebration	Chris Brown	30
+1618	Celebration	Lil Wayne	36
+1618	Celebration	Tyga	145
+1624	Diced Pineapples	Drake	11
+1624	Diced Pineapples	Wale	161
+1625	Between The Raindrops	Natasha Bedingfield	311
+1630	As Long As You Love Me	Big Sean	72
+1636	Young & Gettin' It	Kirko Bangz	312
+1639	Ice	Lil Wayne	36
+1640	Oath	Becky G	313
+1644	My Moment	Jeremih	32
+1644	My Moment	2 Chainz	37
+1644	My Moment	Meek Mill	310
+1645	Birthday Song	Kanye West	61
+1647	Over You	Cassadee Pope	81
+1650	Representin'	Kelly Rowland	279
+1654	My Life	Adam Levine	113
+1654	My Life	Eminem	314
+1655	Finally Found You	Sammy Adams	315
+1657	Good Time	Carly Rae Jepsen	316
+1658	Pop That	Drake	11
+1658	Pop That	Rick Ross	33
+1658	Pop That	Lil Wayne	36
+1669	A Thousand Years (Part 2)	Steve Kazee	317
+1671	Titanium	Sia	107
+1672	Just A Fool	Blake Shelton	318
+1679	Payphone	Wiz Khalifa	23
+1681	2 Reasons	T.I.	240
+1683	Put It Down	Chris Brown	30
+1688	I Can Only Imagine	Chris Brown	30
+1688	I Can Only Imagine	Lil Wayne	36
+1690	No Lie	Drake	11
+1696	Fade Into You	Sam Palladio	319
+1696	Fade Into You	Clare Bowen	320
+1703	Amen	Drake	11
+1709	Just What I Am	King Chip	321
+1713	We Are Young	Janelle MonÃ¡e	322
+1714	Lemme See	Rick Ross	33
+1723	Enough Of No Love	Lil Wayne	36
+1724	I Don't Like	Lil Reese	323
+1725	Tonight (Best You Ever Had)	Ludacris	300
+1727	To The World	R. Kelly	243
+1727	To The World	Teyana Taylor	324
+1729	Let's Go	Ne-Yo	168
+1731	Beautiful	Justin Bieber	4
+1731	Beautiful	Beverly McClellan	386
+1733	Bag Of Money	Rick Ross	33
+1733	Bag Of Money	T-Pain	325
+1734	Heart Skips A Beat	Chiddy Bang	326
+1735	Nobody's Perfect	Missy Elliott	280
+1746	Wild Ones	Sia	107
+1749	Both Of Us	Taylor Swift	283
+1756	My Homies Still	Big Sean	72
+1758	We Run The Night	Pitbull	155
+1761	Throw That	Eminem	314
+1762	I Wish You Would	Rick Ross	33
+1762	I Wish You Would	Kanye West	61
+1764	Take It To The Head	Nicki Minaj	5
+1764	Take It To The Head	Chris Brown	30
+1764	Take It To The Head	Rick Ross	33
+1764	Take It To The Head	Lil Wayne	36
+1766	Yuck!	Lil Wayne	36
+1767	Beez In The Trap	2 Chainz	37
+1777	New Day	Dr. Dre	327
+1777	New Day	Alicia Keys	328
+1778	Dance Again	Pitbull	155
+1779	Crew Love	The Weeknd	64
+1783	Leave You Alone	Ne-Yo	168
+1786	New God Flow	Kanye West	61
+1789	Bangarang	Sirah	329
+1794	The Motto	Lil Wayne	36
+1795	Get It Started	Shakira	78
+1796	Right By My Side	Chris Brown	30
+1799	Take Care	Rihanna	16
+1800	Party Rock Anthem	GoonRock	294
+1800	Party Rock Anthem	Lauren Bennett	330
+1806	Ayy Ladies	Tyga	145
+1807	We Found Love	Calvin Harris	331
+1815	Right Here	Drake	11
+1829	Turn Me On	Nicki Minaj	5
+1832	I'm All Yours	Pitbull	155
+1834	Moves Like Jagger	Christina Aguilera	231
+1840	Young, Wild & Free	Wiz Khalifa	23
+1840	Young, Wild & Free	Bruno Mars	106
+1842	Ass Back Home	Neon Hitch	332
+1843	Feel Like A Rock Star	Tim McGraw	19
+1849	Yesterday	Tony Lucca	333
+1850	Talk That Talk	JAY Z	63
+1852	The Prayer	Chris Mann	334
+1857	Safe & Sound	The Civil Wars	335
+1860	International Love	Chris Brown	30
+1862	Strip	Kevin McCall	349
+1863	Stay Schemin	Drake	11
+1863	Stay Schemin	French Montana	70
+1872	Think Like A Man	Rick Ross	33
+1872	Think Like A Man	Ne-Yo	168
+1876	Can't Get Enough	Trey Songz	112
+1879	Is Anybody Out There?	Nelly Furtado	336
+1881	Mirror	Bruno Mars	106
+1887	Sorry For Party Rocking	GoonRock	294
+1887	Sorry For Party Rocking	Lauren Bennett	330
+1888	Princess Of China	Rihanna	16
+1894	I Dont Really Care	Trey Songz	112
+1897	Do It Like You	Jeremih	32
+1899	Give Me All Your Luvin'	Nicki Minaj	5
+1899	Give Me All Your Luvin'	M.I.A.	337
+1900	I Do	JAY Z	63
+1900	I Do	AndrÃ© 3000	338
+1901	Mr. Wrong	Drake	11
+1902	Naked	Enrique Iglesias	80
+1905	Without You	Usher	95
+1907	Come Away To The Water	Rozzi Crane	339
+1913	Dance (A$$)	Nicki Minaj	5
+1915	Gotta Have It	Kanye West	61
+1920	Lotus Flower Bomb	Miguel	173
+1926	You	Cassadee Pope	81
+1927	Roman Reloaded	Lil Wayne	36
+1932	Stereo Hearts	Adam Levine	113
+1933	Make Me Proud	Nicki Minaj	5
+1938	Mutha***** Up	Nicki Minaj	5
+1942	I Like It Like That	New Boyz	340
+1948	Ima Boss	Rick Ross	33
+1948	Ima Boss	Lil Wayne	36
+1948	Ima Boss	T.I.	240
+1948	Ima Boss	Birdman	270
+1948	Ima Boss	DJ Khaled	341
+1948	Ima Boss	Swizz Beatz	342
+1952	No Church In The Wild	Kanye West	61
+1952	No Church In The Wild	Frank Ocean	285
+1952	No Church In The Wild	The-Dream	343
+1953	Raise Your Weapon	Greta Svabo Bech	344
+1959	5 O'Clock	Wiz Khalifa	23
+1959	5 O'Clock	Lily Allen	260
+1960	Strange Clouds	Lil Wayne	36
+1961	You The Boss	Nicki Minaj	5
+1963	Round Of Applause	Drake	11
+1967	Give Me Everything	Afrojack	147
+1967	Give Me Everything	Ne-Yo	168
+1967	Give Me Everything	Nayer	345
+1973	T.H.E (The Hardest Ever)	Jennifer Lopez	154
+1973	T.H.E (The Hardest Ever)	Mick Jagger	346
+1977	Party	AndrÃ© 3000	338
+1979	You Make Me Feel...	Sabi	347
+1981	Let It Rain	Sarah Buxton	348
+1984	Kyoto	Sirah	329
+2001	Wild Boy	Waka Flocka Flame	350
+2004	She Will	Drake	11
+2007	That Way	Jeremih	32
+2007	That Way	Rick Ross	33
+2008	Play The Guitar	AndrÃ© 3000	338
+2019	Drummer Boy	Busta Rhymes	351
+2024	Sleazy Remix 2.0 Get Sleazier	Wiz Khalifa	23
+2024	Sleazy Remix 2.0 Get Sleazier	Lil Wayne	36
+2024	Sleazy Remix 2.0 Get Sleazier	T.I.	240
+2024	Sleazy Remix 2.0 Get Sleazier	AndrÃ© 3000	338
+2027	Bang Bang Pow Pow	Lil Wayne	36
+2033	Man In The Mirror	Javier Colon	381
+2039	Body 2 Body	Chris Brown	30
+2043	Marvin & Chardonnay	Kanye West	61
+2043	Marvin & Chardonnay	Roscoe Dash	305
+2047	T.H.E. (The Hardest Ever)	Jennifer Lopez	154
+2047	T.H.E. (The Hardest Ever)	Mick Jagger	346
+2048	I Like How It Feels	Pitbull	155
+2048	I Like How It Feels	The WAV.s	352
+2050	Otis	Kanye West	61
+2050	Otis	Otis Redding	353
+2058	Rain Over Me	Marc Anthony	354
+2069	We'll Be Fine	Birdman	270
+2074	Lighters	Bruno Mars	106
+2083	Haunted	Alex G	254
+2083	Haunted	Tyler Ward	355
+2083	Haunted	Jess Moskaluke	356
+2091	Ambition	Rick Ross	33
+2091	Ambition	Meek Mill	310
+2092	Mrs. Right	Diggy Simmons	357
+2093	All I Want For Christmas Is You (SuperFestive!)	Mariah Carey	358
+2094	Sweat	Lil Wayne	36
+2095	Christmas Song (Chestnuts Roasting On An Open Fire)	Usher	95
+2096	Take Over Control	Eva Simons	359
+2097	Lessons In Love	Neon Trees	360
+2098	Dedication To My Ex (Miss That)	Lil Wayne	36
+2098	Dedication To My Ex (Miss That)	AndrÃ© 3000	338
+2100	I'm On One	Drake	11
+2100	I'm On One	Rick Ross	33
+2100	I'm On One	Lil Wayne	36
+2103	Remind Me	Brad Paisley	361
+2104	Got 2 Luv U	Alexis Jordan	362
+2106	Focused	Kid Cudi	363
+2112	Still Got It	Drake	11
+2113	Papi	French Montana	70
+2120	I'm Flexin'	Big K.R.I.T.	364
+2121	You And Tequila	Grace Potter	162
+2126	Motivation	Lil Wayne	36
+2134	Far Away	Chris Richardson	366
+2135	Knee Deep	Jimmy Buffett	367
+2138	Y.U. MAD	Nicki Minaj	5
+2138	Y.U. MAD	Lil Wayne	36
+2143	Beautiful People	Benny Benassi	368
+2147	Out Of My Head	Trey Songz	112
+2149	Body And Soul	Amy Winehouse	369
+2150	On The Floor	Pitbull	155
+2151	Disaster	Jo-Jo	370
+2158	It's Good	Drake	11
+2158	It's Good	Jadakiss	371
+2159	How To Hate	T-Pain	325
+2162	So Special	John Legend	100
+2167	I'm Into You	Lil Wayne	36
+2168	Night Of Your Life	Jennifer Hudson	180
+2172	Booty Wurk (One Cheek At A Time)	Joey Galaxy	372
+2175	Till I'm Gone	Wiz Khalifa	23
+2176	Martians Vs Goblins	Lil Wayne	36
+2176	Martians Vs Goblins	Tyler, The Creator	373
+2178	Don't You Wanna Stay	Kelly Clarkson	374
+2180	Who Gon Stop Me	Kanye West	61
+2186	Old Alabama	Alabama	376
+2190	My Last	Chris Brown	30
+2192	We Don't Get Down Like Y'all	B.o.B	156
+2194	Look At Me Now	Lil Wayne	36
+2194	Look At Me Now	Busta Rhymes	351
+2196	Best Love Song	Chris Brown	30
+2201	John	Rick Ross	33
+2202	Oh My	Wiz Khalifa	23
+2202	Oh My	Roscoe Dash	305
+2202	Oh My	Fabolous	378
+2214	Racks	Future	29
+2215	Ballin'	Lil Wayne	36
+2217	Hustle Hard	Rick Ross	33
+2217	Hustle Hard	Lil Wayne	36
+2236	I Won't Back Down	Dia Frampton	382
+2237	Written In The Stars	iSHi	383
+2237	Written In The Stars	Eric Turner	384
+2238	Little Bad Girl	Ludacris	300
+2238	Little Bad Girl	Taio Cruz	385
+2242	Shake Senora	Sean Paul	12
+2242	Shake Senora	T-Pain	325
+2247	High	Wiz Khalifa	23
+2247	High	Chiddy Bang	326
+2249	Down On Me	50 Cent	377
+2252	Best Friend's Brother	Victoria Justice	387
+2255	Next To You	Justin Bieber	4
+2256	So In Love	Anthony Hamilton	388
+2258	Price Tag	B.o.B	156
+2264	I Need A Doctor	Skylar Grey	200
+2264	I Need A Doctor	Eminem	314
+4225	I Feel It Coming	Daft Punk	3
+4231	Slumber Party	Tinashe	181
+4244	Call On Me	Ryan Riback	1031

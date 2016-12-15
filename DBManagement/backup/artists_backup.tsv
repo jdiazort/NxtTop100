@@ -1,0 +1,980 @@
+artist_id	artist_name	artist_weight	feat_weight
+1	Gucci Mane	0.89	0.445
+2	Halsey	0.6	0.3
+3	Daft Punk	0.02	0.01
+4	Justin Bieber	17.19	8.595
+5	Nicki Minaj	7.91	3.955
+6	Zayion McCall	NULL	NULL
+7	Lil Yachty	0.49	0.245
+8	Kendrick Lamar	8.47	4.234999999945
+9	Olivia O'Brien	NULL	NULL
+10	MÃ˜	NULL	NULL
+11	Drake	35.29	17.644999999985
+12	Sean Paul	1.62	0.81
+13	Grey	NULL	NULL
+14	Zedd	1.81	0.905
+15	Daya	0.51	0.255
+16	Rihanna	6.11	3.054999999975
+17	J. Davi$	NULL	NULL
+18	Spooks	NULL	NULL
+19	Tim McGraw	6.14	3.06999999996
+20	Bebe Rexha	NULL	NULL
+21	WizKid	NULL	NULL
+22	Kyla	NULL	NULL
+23	Wiz Khalifa	6.64	3.31999999998
+24	Imagine Dragons	2.83	1.41499999998
+25	Logic	1	0.5
+26	Ty Dolla $ign	2.21	1.105
+27	X Ambassadors	1.24	0.619999999995
+28	Metro Boomin	NULL	NULL
+29	Future	10.71	5.355
+30	Chris Brown	8.54	4.26999999996
+31	August Alsina	1.17	0.585
+32	Jeremih	0.36	0.18
+33	Rick Ross	3.55	1.775
+34	21 Savage	0.93	0.465
+35	Selena Gomez	0.95	0.474999999985
+36	Lil Wayne	8.36	4.18
+37	2 Chainz	5.18	2.589999999975
+38	P!nk	0.94	0.47
+39	Phoebe Ryan	NULL	NULL
+40	Lil Uzi Vert	1.06	0.53
+41	Young Thug	4.59	2.295
+42	XYLÃ˜	NULL	NULL
+43	Camila Cabello	NULL	NULL
+44	Migos	3.34	1.67
+45	Trouble	NULL	NULL
+46	Tory Lanez	0.19	0.095
+47	Emily Warren	NULL	NULL
+48	Skeme	NULL	NULL
+49	Lyquin	NULL	NULL
+50	Flo Rida	2.45	1.22499999999
+51	Lunchmoney Lewis	0.79	0.395
+52	Seeb	NULL	NULL
+53	Quavo	NULL	NULL
+54	Maluma	NULL	NULL
+55	Tove Lo	0.99	0.495
+56	Cookin' On 3 Burners	NULL	NULL
+57	Kamaiyah	NULL	NULL
+58	Kodak Black	NULL	NULL
+59	G-Eazy	2.97	1.485
+60	Elle King	0.1	0.05
+61	Kanye West	10.02	5.01
+62	Fetty Wap	2.97	1.48499999998
+63	JAY Z	5.91	2.955
+64	The Weeknd	7.92	3.95999999999
+65	Sampha	NULL	NULL
+66	kai	NULL	NULL
+67	Jayla Beyonce Wright	NULL	NULL
+68	The Throne	NULL	NULL
+69	Remy Ma	NULL	NULL
+70	French Montana	2.85	1.425
+71	InfaRed	NULL	NULL
+72	Big Sean	6.02	3.00999999996
+73	Betty Wright	NULL	NULL
+74	Wisin	0.94	0.47
+75	Nyla	NULL	NULL
+76	Fuse Odg	NULL	NULL
+77	MNEK	NULL	NULL
+78	Shakira	2.66	1.33
+79	Young Dolph	NULL	NULL
+80	Enrique Iglesias	3.46	1.72999999998
+81	Cassadee Pope	2.32	1.16
+82	Travis Scott	1.89	0.945
+83	Yo Gotti	2.9	1.45
+84	Desiigner	0.35	0.175
+85	PARTYNEXTDOOR	0.55	0.275
+86	Bipolar Sunshine	NULL	NULL
+87	OK DAC courtesy of Formation Records and Taciturn	NULL	NULL
+88	E-40	NULL	NULL
+89	ROZES	NULL	NULL
+90	Carrie Underwood	3.64	1.82
+91	Pimp C	NULL	NULL
+92	dvsn	NULL	NULL
+93	Gwen Stefani	1.52	0.75999999999
+94	Kesha	0.84	0.42
+95	Usher	2.49	1.244999999985
+96	ZAYN	1.15	0.574999999995
+97	Dakota	NULL	NULL
+98	Francesco Yates	NULL	NULL
+99	Remy Boyz	NULL	NULL
+100	John Legend	1.87	0.935
+101	Karen Fairchild	NULL	NULL
+102	Charlie Puth	0.42	0.21
+103	Jason Derulo	4.6	2.29999999996
+104	Rich Homie Quan	1.5	0.75
+105	Homie Quan	NULL	NULL
+106	Bruno Mars	3.74	1.86999999996
+107	Sia	0.76	0.38
+108	Demi Lovato	4.51	2.255
+109	SilentÃ³	0.03	0.015
+110	Pharrell Williams	0.24	0.12
+111	Jamie Foxx	0.93	0.465
+112	Trey Songz	6.24	3.12
+113	Adam Levine	0.68	0.34
+114	Ed Sheeran	2.07	1.034999999985
+115	Queen	NULL	NULL
+116	Rae Sremmurd	3.58	1.79
+117	Skrillex	3.33	1.665
+118	Diplo	NULL	NULL
+119	Grandmaster Melle Mel	NULL	NULL
+120	Kool Moe Dee	NULL	NULL
+121	Grandmaster Caz	NULL	NULL
+122	Eric Nally	NULL	NULL
+123	Monty	NULL	NULL
+124	A$AP Rocky	4	2
+125	Disciples	NULL	NULL
+126	Nas	NULL	NULL
+127	Meghan Trainor	1.43	0.71499999998
+128	Ellie Goulding	3.09	1.545
+129	Tarrus Riley	NULL	NULL
+130	Kid Ink	5.01	2.505
+131	Futuristic	NULL	NULL
+132	Roman GianArthur	NULL	NULL
+133	BeyoncÃ©	4.68	2.34
+134	Arrow Benjamin	NULL	NULL
+135	Robin Thicke	1.08	0.54
+136	Verdine White	NULL	NULL
+137	Jhene Aiko	0.43	0.215
+138	Conrad Sewell	NULL	NULL
+139	Lana Del Rey	3.36	1.68
+140	Jon Bellion	0.32	0.16
+141	Lophiile	NULL	NULL
+142	Cameron Boyce	NULL	NULL
+143	Booboo Stewart	NULL	NULL
+144	Sofia Carson	NULL	NULL
+145	Tyga	5.54	2.77
+146	Sam Smith	3.67	1.83499999998
+147	Afrojack	2.29	1.144999999995
+148	Labrinth	0.34	0.17
+149	Dej Loaf	0.92	0.46
+150	AlunaGeorge	NULL	NULL
+151	Nick Jonas	0.78	0.39
+152	J. Cole	3.27	1.635
+153	Jidenna	0.22	0.11
+154	Jennifer Lopez	4.58	2.29
+155	Pitbull	6.32	3.15999999998
+156	B.o.B	4	2
+157	Lookas	NULL	NULL
+158	Sage The Gemini	1.56	0.78
+159	Catherine Dunn	NULL	NULL
+160	Gavin DeGraw	0.93	0.465
+161	Wale	6.29	3.14499999996
+162	Grace Potter	NULL	NULL
+163	Mohombi	NULL	NULL
+164	Faydee	NULL	NULL
+165	Costi	NULL	NULL
+166	Iggy Azalea	0.77	0.385
+167	Dro	NULL	NULL
+168	Ne-Yo	0.25	0.125
+169	Theophilus London	NULL	NULL
+170	Allan Kingdom	NULL	NULL
+171	Paul McCartney	NULL	NULL
+172	Rod Stewart	NULL	NULL
+173	Miguel	2.62	1.31
+174	Mark Ronson	0.01	0.005
+175	ScHoolboy Q	2.32	1.16
+176	DJ Snake	0.41	0.205
+177	Eric Church	7.13	3.56499999999
+178	Juicy J	1.87	0.934999999995
+179	YG	1.35	0.675
+180	Jennifer Hudson	0.9	0.45
+181	Tinashe	0.24	0.12
+182	Ashley Monroe	NULL	NULL
+183	Chance The Rapper	0.71	0.355
+184	George Clinton	NULL	NULL
+185	Thundercat	NULL	NULL
+186	Bilal	NULL	NULL
+187	Anna Wise	NULL	NULL
+188	Snoop Dogg	0.07	0.035
+189	Jennifer Lawrence	NULL	NULL
+190	Ariana Grande	3.57	1.785
+191	Broiler	NULL	NULL
+192	Robin Schulz	0.02	0.01
+193	Milo & Otis	NULL	NULL
+194	Rich Kidz	NULL	NULL
+195	Remo	NULL	NULL
+196	Sam Martin	NULL	NULL
+197	Rita Ora	1.39	0.695
+198	John Newman	0.3	0.15
+199	Jess Glynne	0.86	0.43
+200	Skylar Grey	NULL	NULL
+201	Madsonik	NULL	NULL
+202	Kill The Noise	NULL	NULL
+203	John Ryan	NULL	NULL
+204	The Forest Rangers	NULL	NULL
+205	Charli XCX	0.99	0.495
+206	Descemer Bueno	NULL	NULL
+207	Gente De Zona	NULL	NULL
+208	Michael BublÃ©	1.9	0.95
+209	K CAMP	0.54	0.27
+210	Justin Moore	3.44	1.71999999999
+211	Thomas Rhett	3.82	1.91
+212	BJ The Chicago Kid	NULL	NULL
+213	will.i.am	2.71	1.35499999998
+214	Cher Lloyd	0.85	0.425
+215	Faith Hill	0.82	0.41
+216	Justin Timberlake	1.43	0.71499999998
+217	Lil Jon	0.92	0.46
+218	Chris Lake	NULL	NULL
+219	Tujamo	NULL	NULL
+220	Matthew Koma	NULL	NULL
+221	Gwen Sebastian	NULL	NULL
+222	DJ Mustard	NULL	NULL
+223	Pusha T	0.89	0.445
+224	Casino	NULL	NULL
+225	Claudia Leitte	NULL	NULL
+226	Wrabel	NULL	NULL
+227	Jamie N Commons	NULL	NULL
+228	G.R.L.	NULL	NULL
+229	Luke Bryan	6.03	3.014999999975
+230	Nate Ruess	0.77	0.385
+231	Christina Aguilera	1.9	0.949999999995
+232	Idina Menzel	0.78	0.39
+233	Priscilla	NULL	NULL
+234	Agatha Lee Monn	NULL	NULL
+235	Katie Lopez	NULL	NULL
+236	Miley Cyrus	2.04	1.02
+237	Jeezy	3.12	1.56
+238	Santino Fontana	NULL	NULL
+239	Majid Jordan	NULL	NULL
+240	T.I.	5.07	2.535
+241	Ricky Martin	NULL	NULL
+242	The Lonely Island	1.58	0.79
+243	R. Kelly	0.89	0.445
+244	Ayah Marar	NULL	NULL
+245	Hayley Williams	NULL	NULL
+246	MC Eiht	NULL	NULL
+247	Marco Antonio SolÃ­s	NULL	NULL
+248	Trinidad James	0.36	0.18
+249	Iamsu!	NULL	NULL
+250	Jason Mraz	0.08	0.04
+251	Katy Perry	1.4	0.69999999996
+252	Cedric Gervais	NULL	NULL
+253	Dave Days	NULL	NULL
+254	Alex G	NULL	NULL
+255	Jon D	NULL	NULL
+256	Chad Kroeger	NULL	NULL
+257	Foxes	NULL	NULL
+258	TLC	NULL	NULL
+259	Nile Rodgers	NULL	NULL
+260	Lily Allen	NULL	NULL
+261	Nelly	1.65	0.825
+262	Romeo Santos	1.24	0.62
+263	Consequence	NULL	NULL
+264	Cam'Ron	NULL	NULL
+265	Ryan Lewis	NULL	NULL
+266	Mary Lambert	0.66	0.33
+267	Macklemore	NULL	NULL
+268	Mac Miller	4.95	2.47499999999
+269	Trevor Guthrie	NULL	NULL
+270	Birdman	0.68	0.34
+271	Mack Maine	NULL	NULL
+272	Mikky Ekko	NULL	NULL
+273	Emeli SandÃ©	0.25	0.125
+274	Jacob Colgan	NULL	NULL
+275	Fred Stobaugh	NULL	NULL
+276	Sam Dew	NULL	NULL
+277	Pistol Annies & Friends	NULL	NULL
+278	David Guetta	4.41	2.20499999995
+279	Kelly Rowland	1.77	0.885
+280	Missy Elliott	0.22	0.11
+281	Akon	NULL	NULL
+282	LOLO	NULL	NULL
+283	Taylor Swift	0.49	0.245
+284	Keith Urban	5.27	2.63499999996
+285	Frank Ocean	5.51	2.75499999999
+286	Aaliyah	NULL	NULL
+287	Birdy Nam Nam	NULL	NULL
+288	Lord Flacko	NULL	NULL
+289	Michelle Chamuel	1.77	0.885
+290	Mally Mall	NULL	NULL
+291	Tiara Thomas	NULL	NULL
+292	Zach Sobiech	NULL	NULL
+293	Q-Tip	NULL	NULL
+294	GoonRock	NULL	NULL
+295	Britney Spears	3.48	1.73999999997
+296	Florence Welch	NULL	NULL
+297	Guy Sebastian	NULL	NULL
+298	John Martin	NULL	NULL
+299	Bobby Brackins	NULL	NULL
+300	Ludacris	3.56	1.78
+301	Alesso	0.31	0.155
+302	LL Cool J	NULL	NULL
+303	Vince Gill	NULL	NULL
+304	William	NULL	NULL
+305	Roscoe Dash	0.91	0.455
+306	TJR	NULL	NULL
+307	Kimbra	NULL	NULL
+308	Tank	NULL	NULL
+309	Detail	NULL	NULL
+310	Meek Mill	10.84	5.42
+311	Natasha Bedingfield	NULL	NULL
+312	Kirko Bangz	0.28	0.14
+313	Becky G	1.04	0.52
+314	Eminem	4.17	2.085
+315	Sammy Adams	NULL	NULL
+316	Carly Rae Jepsen	2.9	1.45
+317	Steve Kazee	NULL	NULL
+318	Blake Shelton	8.18	4.08999999991
+319	Sam Palladio	NULL	NULL
+320	Clare Bowen	NULL	NULL
+321	King Chip	NULL	NULL
+322	Janelle MonÃ¡e	0.79	0.395
+323	Lil Reese	NULL	NULL
+324	Teyana Taylor	NULL	NULL
+325	T-Pain	2.12	1.06
+326	Chiddy Bang	NULL	NULL
+327	Dr. Dre	0.4	0.2
+328	Alicia Keys	0.11	0.055
+329	Sirah	NULL	NULL
+330	Lauren Bennett	NULL	NULL
+331	Calvin Harris	2.17	1.085
+332	Neon Hitch	NULL	NULL
+333	Tony Lucca	0.58	0.29
+334	Chris Mann	NULL	NULL
+335	The Civil Wars	NULL	NULL
+336	Nelly Furtado	NULL	NULL
+337	M.I.A.	NULL	NULL
+338	AndrÃ© 3000	NULL	NULL
+339	Rozzi Crane	NULL	NULL
+340	New Boyz	0.68	0.34
+341	DJ Khaled	4.98	2.48999999996
+342	Swizz Beatz	NULL	NULL
+343	The-Dream	NULL	NULL
+344	Greta Svabo Bech	NULL	NULL
+345	Nayer	NULL	NULL
+346	Mick Jagger	NULL	NULL
+347	Sabi	NULL	NULL
+348	Sarah Buxton	NULL	NULL
+349	Kevin McCall	NULL	NULL
+350	Waka Flocka Flame	1.5	0.75
+351	Busta Rhymes	0.94	0.47
+352	The WAV.s	NULL	NULL
+353	Otis Redding	NULL	NULL
+354	Marc Anthony	0.92	0.46
+355	Tyler Ward	NULL	NULL
+356	Jess Moskaluke	NULL	NULL
+357	Diggy Simmons	NULL	NULL
+358	Mariah Carey	1.14	0.57
+359	Eva Simons	NULL	NULL
+360	Neon Trees	0.57	0.285
+361	Brad Paisley	6.38	3.19
+362	Alexis Jordan	NULL	NULL
+363	Kid Cudi	1.65	0.825
+364	Big K.R.I.T.	NULL	NULL
+365	Travie McCoy	0.82	0.41
+366	Chris Richardson	NULL	NULL
+367	Jimmy Buffett	NULL	NULL
+368	Benny Benassi	NULL	NULL
+369	Amy Winehouse	NULL	NULL
+370	Jo-Jo	NULL	NULL
+371	Jadakiss	NULL	NULL
+372	Joey Galaxy	NULL	NULL
+373	Tyler, The Creator	NULL	NULL
+374	Kelly Clarkson	4.24	2.12
+375	Dragonette	NULL	NULL
+376	Alabama	NULL	NULL
+377	50 Cent	1.93	0.964999999995
+378	Fabolous	0.93	0.465
+379	Zendaya	1.33	0.665
+380	Cast of Shake It Up: Break It Down	NULL	NULL
+381	Javier Colon	0.17	0.085
+382	Dia Frampton	1.31	0.65499999999
+383	iSHi	NULL	NULL
+384	Eric Turner	NULL	NULL
+385	Taio Cruz	NULL	NULL
+386	Beverly McClellan	NULL	NULL
+387	Victoria Justice	NULL	NULL
+388	Anthony Hamilton	NULL	NULL
+390	The Chainsmokers	1.15	0.57499999998
+391	Twenty One Pilots	2.66	1.32999999999
+392	Zay Hilfigerrr	0.05	0.025
+393	D.R.A.M.	0.05	0.025
+394	Maroon 5	3.02	1.50999999996
+395	gnash	0.1	0.05
+396	Major Lazer	2.14	1.07
+397	Shawn Mendes	2.41	1.20499999998
+398	AminÃ©	0.12	0.06
+399	Hailee Steinfeld	0.43	0.215
+400	Young M.a.	0.19	0.095
+401	Alessia Cara	0.7	0.349999999995
+402	Kiiara	0.13	0.065
+403	Rob $tone	0.29	0.145
+404	Florida Georgia Line	3.78	1.89
+405	Martin Garrix	0.24	0.12
+406	Adele	2.84	1.41999999999
+407	Cole Swindell	2.57	1.28499999999
+408	Kenny Chesney	7.37	3.68499999994
+409	Karaoke Freaks	0.43	0.215
+410	Brett Young	0.47	0.235
+411	Jason Aldean	6.99	3.49499999993
+412	Little Big Town	2.8	1.39999999998
+413	Old Dominion	1.54	0.769999999995
+414	Niall Horan	0.25	0.125
+415	DJ Esco	0.61	0.305
+416	Miranda Lambert	4.12	2.059999999965
+417	Machine Gun Kelly	1.26	0.63
+418	Brett Eldredge	2.67	1.335
+419	Andy Grammer	2.67	1.335
+420	YFN Lucci	0.7	0.35
+421	Fitz and The Tantrums	1.3	0.65
+422	James Arthur	0.68	0.34
+423	Pentatonix	1.7	0.85
+424	PIKOTARO	0.77	0.385
+425	Zara Larsson	1.64	0.81999999999
+426	Russ	0.83	0.415
+427	FRENSHIP	0.78	0.39
+428	Billy Currington	2.45	1.225
+429	PnB Rock	0.81	0.405
+430	A Boogie Wit da Hoodie	0.89	0.445
+431	Maren Morris	1.4	0.7
+432	LOCASH	1.08	0.54
+433	The Game	3.42	1.71
+434	DJ Drama	3.51	1.755
+435	Dae Dae	0.66	0.33
+436	Lady Gaga	4.81	2.40499999995
+437	Eric Church Rhiannon Giddens	0.94	0.47
+438	Calvillo Sisters	0.13	0.065
+439	Kehlani	1.26	0.63
+440	Coldplay	3.76	1.88
+441	Little Mix	2.15	1.07499999999
+442	Flume	0.43	0.215
+443	Kungs	0.26	0.13
+444	Marc E. Bassy	0.58	0.29
+445	Fifth Harmony	2.72	1.359999999995
+446	Dua Lipa	0.72	0.36
+447	Dierks Bentley	3.34	1.67
+448	Tucker Beathard	0.62	0.31
+449	Marshmello	0.93	0.465
+450	William Michael Morgan	0.6	0.3
+451	Grace	0.57	0.285
+452	Piko-Taro	NULL	NULL
+453	Kelsea Ballerini	1.38	0.69
+454	OneRepublic	3.18	1.59
+455	Artists Of Then, Now & Forever	0.21	0.105
+456	Solange	1.65	0.825
+457	Sam Hunt	1.5	0.75
+458	CL	0.94	0.47
+459	Mike Posner	0.55	0.275
+460	Lukas Graham	0.38	0.19
+461	Nicky Jam	2.83	1.415
+462	Zayion McCall Zay Hilfigerrr	0.57	0.285
+463	AminÃƒÂ©	NULL	NULL
+464	Kent Jones	0.08	0.04
+465	Post Malone	1.83	0.915
+466	Jake Owen	4.26	2.129999999985
+467	Ava Ayanna	0.01	0.005
+468	Dan + Shay	1.41	0.705
+469	Travis Scott Kendrick Lamar	NULL	NULL
+470	DNCE	0.53	0.265
+471	Enrique Iglesias Feat. Wisin or Tinashe Javada	0.82	0.41
+472	Madeintyo	0.51	0.255
+473	Jacob Sartorius	1.62	0.81
+474	Chris Lane	0.65	0.325
+475	Zac Brown Band	6.11	3.05499999996
+476	Galantis	0.88	0.44
+477	James Bay	0.05	0.025
+478	Jon Pardi	1.07	0.535
+479	Panic! At The Disco	4.68	2.34
+480	Fat Joe	1.07	0.535
+481	Ben Rector	0.82	0.41
+482	Major Lazer Justin Bieber M0	NULL	NULL
+483	Kushingham	0.81	0.405
+484	Ruth B	0.24	0.12
+485	5 Seconds of Summer	4.58	2.29
+486	Fergie	1.38	0.69
+487	David Nail	1.67	0.83499999999
+488	The Lumineers	1.39	0.694999999995
+489	Dreezy	0.62	0.31
+490	Andres Espinosa	0.72	0.36
+491	blink-182	1.73	0.865
+492	Carlos Vives	0.95	0.475
+493	O.T. Genasis	0.55	0.275
+494	Disturbed	0.42	0.21
+495	Kevin Gates	2.5	1.25
+496	Chris Young	4.66	2.33
+497	Red Hot Chili Peppers	1.05	0.525
+498	Broadway for Orlando	0.86	0.43
+499	Kane Brown	1.7	0.85
+500	Bryson Tiller	1.02	0.51
+501	Belly	0.68	0.34
+502	Alan Walker	0.33	0.165
+503	Mike WiLL Made-It	0.86	0.43
+504	Dustin Lynch	2.46	1.23
+505	Young Greatness	0.85	0.425
+506	Troye Sivan	1.15	0.575
+507	Dance Guru	0.27	0.135
+508	Adam Wakefield	1.67	0.835
+509	Hannah Huston	0.94	0.47
+510	Alisan Porter	1	0.5
+511	The Castle Piano	0.18	0.09
+512	Rascal Flatts	2.97	1.485
+513	Beyonce Jack White	0.28	0.14
+514	Jason Gordon	0.38	0.19
+515	Beyonce Kendrick Lamar	0.35	0.175
+516	Smooth Jazz All Stars	1.68	0.84
+517	Mega Tracks Karaoke Band	3.06	1.52999999999
+518	Rockabye Baby!	1.61	0.80499999996
+519	Ameritz Karaoke Entertainment	0.23	0.115
+520	Beyonce James Blake	0.63	0.315
+521	A$AP Ferg	0.9	0.45
+522	Lee Brice	3.19	1.594999999985
+523	Halocene	0.46	0.23
+524	Chase Bryant	1.53	0.765
+525	DJ Luke Nasty	0.78	0.39
+526	Jonas Blue	0.98	0.49
+527	Chris Stapleton	2.74	1.37
+528	Rachel Platten	0.43	0.215
+529	Granger Smith	0.49	0.245
+530	Randy Houser	2.4	1.2
+531	Major Lazer DJ Snake M0	0.04	0.02
+532	One Direction	14.15	7.07499999996
+533	Lil Dicky	0.71	0.355
+534	Empire of the Sun	0.65	0.325
+535	Taolo	0.05	0.025
+536	Mary Desmond	0.66	0.33
+537	Tori Kelly	1.79	0.89499999999
+538	Brothers Osborne	0.46	0.23
+539	Fall Out Boy	3.16	1.57999999997
+540	DLOW	0.45	0.225
+541	Dawin	0.68	0.34
+542	Chase Rice	2.15	1.07499999999
+543	Jana Kramer	2	0.99999999999
+544	Curren$y	0.97	0.485
+545	R. City	0.06	0.03
+546	Rudimental	0.48	0.24
+547	iLoveMemphis	1.13	0.565
+548	J Balvin	0.84	0.42
+549	David Bowie	2.05	1.025
+550	Jack Ãœ	0.08	0.04
+551	Macklemore & Ryan Lewis	0.4	0.2
+552	Cam	0.29	0.145
+553	Brenda Lee	0.3	0.15
+554	Nat King Cole	0.38	0.19
+555	Bobby Helms	0.47	0.235
+556	Lindsey Stirling	NULL	NULL
+557	Jordan Smith	3.25	1.62499999998
+558	OMI	0.01	0.005
+559	Emily Ann Roberts	NULL	NULL
+560	Parmalee	1.96	0.979999999995
+561	Barrett Baber	0.92	0.46
+562	PSY	1.3	0.65
+563	Madi Davis	0.59	0.295
+564	WALK THE MOON	1.02	0.51
+565	Michael Jackson	1.03	0.515
+566	Swift Hits	0.01	0.005
+567	Maddie & Tae	0.73	0.365
+568	The 1975	0.89	0.445
+569	Radio Remix DJ	0.44	0.22
+570	Chris Janson	0.41	0.205
+571	Andrew McMahon in the Wilderness	0.96	0.48
+572	Adam Lambert	1.4	0.7
+573	A Great Big World	1.03	0.515
+574	Naughty Boy	1.09	0.545
+575	Omarion	0.13	0.065
+576	Kygo	0.92	0.46
+577	Dove Cameron	1.32	0.66
+578	Pia Mia	0.71	0.355
+579	Disclosure	0.71	0.355
+580	Frankie Ballard	1.63	0.814999999995
+581	T-Wayne	0.09	0.045
+582	N.W.A.	0.38	0.19
+583	Eazy-E	0.5	0.25
+584	Michael Ray	0.55	0.275
+585	Brantley Gilbert	4.8	2.4
+586	Kip Moore	2.21	1.105
+587	Canaan Smith	0.46	0.23
+588	Seth Ells	0.23	0.115
+589	Twenty One Two	0.01	0.005
+590	Janet Jackson	0.63	0.315
+591	Bea Miller	0.78	0.39
+592	Echosmith	0.53	0.265
+593	Prince Royce	2.13	1.065
+594	Easton Corbin	2.43	1.215
+595	Ciara	2.09	1.045
+596	Natalie La Rose	0.1	0.05
+597	We Love Taylor Swift	0.06	0.03
+598	Tech N9ne	0.9	0.45
+599	Steven Tyler	1.45	0.725
+600	A Thousand Horses	0.47	0.235
+601	NEEDTOBREATHE	0.98	0.49
+602	George Ezra	0.32	0.16
+603	Jessie J	2.52	1.26
+604	Shaggy	0.16	0.08
+605	Madonna	0.94	0.47
+606	Hilary Duff	1.43	0.715
+607	Mumford & Sons	5.88	2.939999999985
+608	Chedda Da Connect	0.94	0.47
+609	Bandit Gang Marco	0.41	0.205
+610	How I Became the Bomb	0.58	0.29
+611	Dillon Francis	0.61	0.305
+612	Sawyer Fredericks	4.99	2.494999999975
+613	Hozier	0.02	0.01
+614	Meghan Linsey	0.92	0.46
+615	Eric Paslay	2.09	1.04499999999
+616	Tyler Farr	1.32	0.66
+617	Sheppard	0.53	0.265
+618	Nick Fradiani	0.93	0.465
+619	Major Lazer X DJ Snake M0	NULL	NULL
+620	Vance Joy	0.3	0.15
+621	Koryn Hawthorne	0.34	0.17
+622	New Tribute Kings	0.23	0.115
+623	kimberly nichole	1	0.5
+624	Darius Rucker	2.17	1.085
+625	Who Is Fancy	0.98	0.49
+626	Breaking Benjamin	0.8	0.4
+627	Action Bronson	0.91	0.455
+628	Empire Cast	1.88	0.93999999999
+629	James Newton Howard	0.12	0.06
+630	Ella Henderson	0.21	0.105
+631	Cashmere Cat	0.93	0.465
+632	Common	0.49	0.245
+633	Kid Rock	0.66	0.33
+634	Vanity Productions	0.83	0.415
+635	ILoveMakonnen	0.12	0.06
+636	Florence + The Machine	1.79	0.895
+637	Annie Lennox	0.97	0.485
+638	ProTracks (Karaoke)	0.35	0.175
+639	Stingray Music (Karaoke)	0.4	0.2
+640	Mr. Probz	NULL	NULL
+641	Iggy Azalea M0	0.27	0.135
+642	RaeLynn	0.61	0.305
+643	Beyonce Nicki Minaj Or Chimamanda Ngozi Adichie	0.41	0.205
+644	A-Trak	0.98	0.49
+645	MAGIC!	0.01	0.005
+646	Hoodie Allen	0.71	0.355
+647	Bobby Shmurda	0.98	0.49
+648	Milky Chance	0.39	0.195
+649	Clean Bandit	0.1	0.05
+650	Jinx Trax	0.87	0.435
+651	I Prevail	NULL	NULL
+652	Rich Gang	0.6	0.3
+653	Colbie Caillat	1.33	0.664999999995
+654	Nico & Vinz	0.76	0.38
+655	Lorde	1.73	0.86499999999
+656	French Montana Jeremih	0.95	0.475
+657	Matt McAndrew	1.37	0.68499999999
+658	Craig Wayne Boyd	1.77	0.885
+659	Chris Jamison	1.17	0.585
+660	Nicki Minaj Featruing Skylar Grey	NULL	NULL
+661	Damien	0.74	0.37
+662	The White Buffalo	0.93	0.465
+663	Big & Rich	1.55	0.775
+664	Scotty McCreery	2.02	1.01
+665	Taylor John Williams	0.01	0.005
+666	Jennifer Lopez Iggy Azalea Or Pitbull	0.18	0.09
+667	Epic Alliance	0.63	0.315
+668	The Script	1.56	0.78
+669	Snootie Wild	0.93	0.465
+670	OK Go	0.71	0.355
+671	Kiesza	0.51	0.255
+672	OG Maco	0.9	0.45
+673	Childish Gambino	2.94	1.47
+674	Jimmy Fallon	0.26	0.13
+675	Glen Campbell	0.9	0.45
+676	Avicii	1.83	0.915
+677	TeeFLii 2 Chainz	0.85	0.425
+678	The Swon Brothers	3.41	1.705
+679	Lady Antebellum	2.89	1.444999999975
+680	Train	3.54	1.77
+681	alt-J	0.99	0.495
+682	Chris Brown Lil Wayne French Montana Or Too $hort Or Tyga	0.09	0.045
+683	Eli Young Band	1.79	0.895
+684	Deorro	NULL	NULL
+685	Joe Nichols	0.8	0.4
+686	Steve Aoki	0.9	0.45
+687	Chart Hitz	0.89	0.445
+688	KONGOS	0.31	0.155
+689	Ingrid Michaelson	0.52	0.26
+690	KCamp 2 Chainz	0.49	0.245
+691	TiÃ«sto	1.05	0.525
+692	MKTO	0.14	0.07
+693	Bastille	0.05	0.025
+694	Florida Georgia Line Ft. Jason Derulo Luke Bryan	0.15	0.075
+695	AJR	0.65	0.325
+696	Paramore	0.34	0.17
+697	Rixton	0.14	0.07
+698	Jack & Jack	0.87	0.435
+699	"""Weird Al"" Yankovic"	0.39	0.195
+700	American Authors	0.11	0.055
+701	Young Money	0.5	0.25
+702	Ca$h Out	1.34	0.67
+703	George Strait	2.39	1.195
+704	The Band Perry	3.69	1.845
+705	Craig Campbell	2.45	1.22499999999
+706	Christina Perri	1.81	0.904999999995
+707	Sara Bareilles	1.04	0.52
+708	Phillip Phillips	1.79	0.89499999999
+709	Austin Mahone	1.15	0.575
+710	John Mayer	3.5	1.74999999999
+711	Passenger	0.05	0.025
+712	Christina Grimmie	0.84	0.42
+713	Jerrod Niemann	1.98	0.99
+714	The Black Keys	2.35	1.174999999995
+715	Jake Worthington	0.98	0.49
+716	Craig Morgan	1.86	0.93
+717	Aloe Blacc	0.08	0.04
+718	Josh Kaufman	0.71	0.355
+719	Hunter Hayes	2.88	1.44
+720	Kristen Bell	1.57	0.784999999995
+721	Katy Tiz	1	0.5
+722	Avril Lavigne	4.61	2.304999999995
+723	Arctic Monkeys	0.7	0.35
+724	Hillsong United	0.83	0.415
+725	SoMo	NULL	NULL
+726	Sara Evans	1.38	0.69
+727	Cash Cash	0.57	0.285
+728	Thompson Square	2.02	1.009999999995
+729	Chris Brown Lil Wayne French Montana Or Too $hort	NULL	NULL
+730	K. Michelle	1.83	0.915
+731	Soko	0.09	0.045
+732	AWOLNATION	0.17	0.085
+733	U2	0.84	0.42
+734	Rico Love	0.73	0.365
+735	Daughtry	1.07	0.535
+736	The Fray	0.6	0.3
+737	Tegan and Sara	0.57	0.285
+738	Danielle Bradbery	4.85	2.42499999999
+739	Capital Cities	0.08	0.04
+740	The Neighbourhood	0.14	0.07
+741	Sevyn Streeter	0.3	0.15
+742	Buck 22	0.8	0.4
+743	J. Cole Amber Coffman The Cults	NULL	NULL
+744	Kacey Musgraves	1.23	0.615
+745	We Were Us	0.26	0.13
+746	Lucy Hale	0.88	0.44
+747	Ylvis	0.06	0.03
+748	Work Bitch	0.12	0.06
+749	Lupe Fiasco	3.81	1.905
+750	Maejor Ali	0.19	0.095
+751	Tessanne Chin	1.85	0.92499999999
+752	Rebecca Black	0.55	0.275
+753	Lea Michele	0.75	0.375
+754	Jacquie Lee	0.64	0.32
+755	Tamar Braxton	1.53	0.765
+756	Piano Dreamland	0.06	0.03
+757	Will Champlin	0.83	0.415
+758	Enya	0.43	0.215
+759	Matthew Schuler	NULL	NULL
+760	Bon Jovi	0.25	0.125
+761	August Alsina Featuing Trinidad James	NULL	NULL
+762	Alex G & Jon D	0.32	0.16
+763	James Wolpert	0.72	0.36
+764	Tiffany Alvord	0.34	0.17
+765	Anna Kendrick	0.7	0.35
+766	Alison Gold	0.29	0.145
+767	Pearl Jam	0.76	0.38
+768	Glee Cast	32.26	16.12999999986
+769	YG X Jeezy X Rich Homie Quan	NULL	NULL
+770	Bonnie McKee	0.87	0.435
+771	LINKIN PARK x STEVE AOKI	0.65	0.325
+772	Charlie Worsham	0.94	0.47
+773	Armin van Buuren	0.96	0.48
+774	Sheryl Crow	0.43	0.215
+775	Drop That Thun Thun	0.35	0.175
+776	J. Dash	0.51	0.255
+777	Bounce It	NULL	NULL
+778	MIKA	0.87	0.435
+779	Arcade Fire	0.99	0.495
+780	Nathan Sykes	0.82	0.41
+781	Jay Z Rick Ross	0.64	0.32
+782	Green Shoe Studio	0.42	0.21
+783	Avenged Sevenfold	0.83	0.415
+784	Karmin	0.88	0.44
+785	Rocko	0.2	0.1
+786	Ke$ha will.i.am Or Juicy J	0.4	0.2
+787	Sean Kingston	0.52	0.26
+788	Icona Pop	0.07	0.035
+789	The Wanted	1.86	0.93
+790	Fantasia	0.74	0.37
+791	Wale Tiara Thomas Or Rihanna	0.21	0.105
+792	Emblem3	0.93	0.465
+793	Ross Lynch, Grace Phipps And Jason Evigan	0.82	0.41
+794	Krewella	1	0.5
+795	Baauer	0.01	0.005
+796	Ace Hood	1.58	0.78999999999
+797	Jack Johnson	0.68	0.34
+798	Amber Carrington	0.92	0.46
+799	Hadouken!	0.69	0.345
+800	Gloriana	1.17	0.585
+801	Olly Murs	1.21	0.605
+802	Danielle Bradberry	0.89	0.445
+803	A Firm Handshake	0.26	0.13
+804	fun.	0.24	0.12
+805	Candice Glover	0.93	0.465
+806	Ultimate Party Jams	0.08	0.04
+807	Swedish House Mafia	0.06	0.03
+808	Ray J	0.51	0.255
+809	Ready	NULL	NULL
+810	Arianna	0.97	0.485
+811	Of Monsters and Men	0.2	0.1
+812	We The Kings	0.92	0.46
+813	Muse	0.45	0.225
+814	Jonas Brothers	0.6	0.3
+815	Singer's Edge Karaoke	0.66	0.33
+816	Britt Nicole	NULL	NULL
+817	Chief Keef	1.29	0.645
+818	Alabama Shakes	0.93	0.465
+819	Gotye	0.96	0.48
+820	Gary Allan	0.26	0.13
+821	Remix & Repent	0.07	0.035
+822	Joe Budden	0.96	0.48
+823	Casey James	0.88	0.44
+824	Chris Cagle	1.82	0.91
+825	Passion Pit	0.84	0.42
+826	The Barden Bellas, The Treblemakers The BU Harmonics	0.86	0.43
+827	The Barden Bellas	1.81	0.905
+828	Alex Clare	0.07	0.035
+829	Lifehouse	0.79	0.395
+830	Guitar Tribute Players	0.64	0.32
+831	Anne Hathaway	0.69	0.345
+832	Bridgit Mendler	0.49	0.245
+833	Greg Bates	0.66	0.33
+834	Samantha Barks	0.97	0.485
+835	Terry McDermott	0.84	0.42
+836	Owl City	0.08	0.04
+837	Nicholas David	0.96	0.48
+838	Melanie Martinez	0.86	0.43
+839	Grace Potter & The Nocturnals	0.95	0.475
+840	Amanda Brown	NULL	NULL
+841	Brandy	0.65	0.325
+842	Acoustic Hits	0.65	0.325
+843	Against The Current	0.8	0.4
+844	Hushabye Baby	0.91	0.455
+845	Nashville Cast	0.92	0.46
+846	Piano Tribute Players	0.13	0.065
+847	Matchbox Twenty	0.4	0.2
+848	Mumford Sons	0.85	0.425
+849	Love and Theft	0.32	0.16
+850	Keyshia Cole	0.84	0.42
+851	Linkin Park	2.06	1.02999999999
+852	HOT 100	0.16	0.08
+853	Josh Turner	1.36	0.68
+854	Green Day	0.97	0.485
+855	Grouplove	0.42	0.21
+856	No Doubt	0.34	0.17
+857	NERO	0.7	0.35
+858	Driicky Graham	0.73	0.365
+859	Havana Brown	0.26	0.13
+860	Gym Class Heroes	0.16	0.08
+861	Slaughterhouse	0.98	0.49
+862	Toby Keith	1.87	0.935
+863	The Killers	0.78	0.39
+864	Drake Lil Wayne	0.62	0.31
+865	M83	0.72	0.36
+866	Dave Matthews Band	NULL	NULL
+867	LoveRance IamSu Skipper or 50 Cent	0.46	0.23
+868	LMFAO	0.51	0.255
+869	Basketball Wives DJ's	0.24	0.12
+870	Travis Porter	1.49	0.745
+871	BTR	0.97	0.485
+872	Michel TelÃ³	0.81	0.405
+873	Jay Sean	0.85	0.425
+874	Party Machine	0.41	0.205
+875	Jermaine Paul	0.83	0.415
+876	Juliet Simms	1.56	0.78
+877	Real Housewives DJ's	0.37	0.185
+878	The Dream Team	0.86	0.43
+879	Niggas In Paris Instrumental	0.05	0.025
+880	K'NAAN	0.92	0.46
+881	Montgomery Gentry	0.71	0.355
+882	Outasight	0.38	0.19
+883	Shinedown	0.94	0.47
+884	Saxtribution	0.81	0.405
+885	Diggy	0.8	0.4
+886	Mary J. Blige	0.87	0.435
+887	DEV	1.1	0.55
+888	Dream Baby	1.21	0.604999999995
+889	Bella Thorne	0.97	0.485
+890	Breathe Carolina	0.32	0.16
+891	Foster The People	0.89	0.445
+892	Selena Gomez & The Scene	1.37	0.68499999999
+893	Young the Giant	1.3	0.65
+894	Far*East Movement Justin Bieber	0.21	0.105
+895	Estelle	1	0.5
+896	Whitney Houston	0.64	0.319999999995
+897	Hot Chelle Rae	0.35	0.175
+898	Martina McBride	1.61	0.805
+899	deadmau5	1	0.5
+900	Lindsey Pavao	0.8	0.4
+901	YG Tyga, Snoopd Dogg Nipsey Hussle	1	0.5
+902	Cobra Starship	0.07	0.035
+903	Edens Edge	NULL	NULL
+904	Van Halen	0.67	0.335
+905	Snow Patrol	0.78	0.39
+906	Nickelback	1.33	0.665
+907	3OH!3	0.84	0.42
+908	V.I.C	0.94	0.47
+909	Alexandra Stan	0.21	0.105
+910	ManÃ¡	1	0.5
+911	Country Superstar Hits Karaoke	0.1	0.05
+912	Hip Hop King of Real Karaoke	0.67	0.335
+913	Audio Idols	0.26	0.13
+914	Bad Meets Evil	0.04	0.02
+915	Matt Nathanson	1.27	0.635
+916	Ronnie Dunn	1.51	0.755
+917	DJ Covers	0.97	0.485
+918	Tyler Ward feat. Alex G & Jess Moskaluke	0.98	0.49
+919	Rodney Atkins	0.23	0.115
+920	Mindless Behavior	0.72	0.36
+921	Bow Wow	0.48	0.24
+922	Kaskade	0.94	0.47
+923	Lloyd	0.79	0.395
+924	Trace Adkins	0.61	0.305
+925	China Anne McClain	0.86	0.43
+926	Evanescence	1.67	0.835
+927	Iyaz	NULL	NULL
+928	Steve Holy	0.78	0.39
+929	Kreayshawn	0.57	0.285
+930	Foo Fighters	1.76	0.88
+931	The Black Eyed Peas	0.04	0.02
+932	Hugh Laurie	0.58	0.29
+933	Tony Bennett	0.87	0.435
+934	Mario Jefferson	0.87	0.435
+935	Pistol Annies	0.55	0.275
+936	Tinie Tempah	1.06	0.53
+937	Martin Solveig	NULL	NULL
+938	Nicole Scherzinger	0.86	0.43
+939	Five Finger Death Punch	0.77	0.385
+940	Mat Kearney	0.87	0.435
+941	Kirk Franklin	0.85	0.425
+942	Karaoke Planet	0.17	0.085
+943	Piano Dreamers	0.68	0.34
+944	YC Worldwide	0.42	0.21
+945	Marsha Ambrosius	NULL	NULL
+946	Seether	0.72	0.36
+947	Don Omar	1.84	0.92
+948	Vicci Martinez	2.22	1.11
+949	Victorious Cast	0.86	0.43
+950	Xenia	0.92	0.46
+951	Jill Scott	0.97	0.485
+952	Shania Twain	0.66	0.33
+953	Casey Weston	0.9	0.45
+954	Joe Jonas	0.92	0.46
+955	Lauren Alaina	0.2	0.1
+956	Rej3ctz	0.97	0.485
+957	My Chemical Romance	NULL	NULL
+958	Reeve Carney	0.74	0.37
+959	Enrique Iglesias Wtih Usher Lil Wayne	NULL	NULL
+960	Rick Ross Lil Wayne Or T.I.	0.86	0.43
+961	Big Time Rush	NULL	NULL
+962	Ashton Shepherd	0.95	0.475
+963	Pitbull Ne-Yo, AfroJack Nayer	NULL	NULL
+964	Jennifer Lopez Pitbull	NULL	NULL
+965	Chris Brown Lil Wayne Busta Rhymes	NULL	NULL
+966	Jeremih 50 Cent	NULL	NULL
+967	Cee Lo Green	NULL	NULL
+968	Ke$ha	NULL	NULL
+969	Tinie Tempah Eric Turner	NULL	NULL
+970	LMFAO Lauren Bennett GoonRock	NULL	NULL
+971	Kelly Rowland Lil Wayne	NULL	NULL
+972	Glee Cast Jonathan Groff	NULL	NULL
+973	New Boyz The Cataracs Dev	NULL	NULL
+974	Dr. Dre Eminem Skylar Grey	NULL	NULL
+975	Jessie J B.o.B	NULL	NULL
+1024	Migos Lil Uzi Vert	0.54	0.27
+1025	Leonard Cohen	NULL	NULL
+1026	A Tribe Called Quest	0.77	0.385
+1027	Starley	0.99	0.495
+1031	Ryan Riback	NULL	NULL

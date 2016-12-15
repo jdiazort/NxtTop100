@@ -1,0 +1,48 @@
+<html>
+<head>
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<!--<link rel="stylesheet" href="css/home1.css">-->
+		<style type="text/css" src="./css/home.css"></style>
+	<title>{{HomeTitle}}</title>	
+</head>
+<body>
+
+	<div class="container"> 
+		<div class="row">
+			<div class="jumbotron" style="text-align: center;">
+				  <h1>{{HomeTitle}} - {{curr_rank_week}}</h1>
+			</div>
+		</div>
+		<div class="row">
+			<div class="btn-group btn-group-justified" role="group" aria-label="..." style="text-align: center">
+				<div type="button" class="btn btn-default">
+					<button type="button" class="btn btn-default" ng-click="load_previous_week(curr_rank_week)""><span class="glyphicon glyphicon-menu-left"></span></button>
+				</div>
+				<!--<div type="button" class="btn btn-default">
+					<button type="button" class="btn btn-default" ng-click="build_next_week()"> Load: {{curr_rank_week}}</button>
+				</div> -->
+				<div type="button" class="btn btn-default">
+					<button type="button" class="btn btn-default" ng-click="load_future_week(curr_rank_week)"><span class="glyphicon glyphicon-menu-right"></span></button>
+				</div>
+			</div>
+		</div>
+		<div class="row" ng-repeat="p in data">
+			<div class="row">
+				<div class="col-md-2">
+					<h1>{{$index + 1}}</h1>
+				</div>
+				<div class="col-md-10">
+					<h2>{{p.track_name}}</h2>
+					<h3>{{p.track_artist}} - {{p.track_album}}</h3>
+					<p>First appearance: {{p.spot_pop}}, </br> Weeks in top100: {{p.weeks}} </p>
+				</div>
+			</div>
+		</div>
+
+
+
+	</div>
+</body>
+</html>
+
+

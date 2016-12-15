@@ -1,0 +1,47 @@
+<html>
+<head >
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/home1.css">
+	<script type="text/javascript"></script>
+	<title>{{HomeTitle}}</title>	
+</head>
+<body>
+
+	<nav class="navbar navbar-inverse">
+		<ul class="nav navbar-nav">
+			<li><a class="navbar-brand">NXT100</a></li>
+			<li><a href="">Home</a></li>
+			<li><a href="">Track</a></li>
+			<li><a href="">Charts</a></li>
+			<li><a href="#artist">Aritst</a></li>
+			<li><a href="#albums">Album</a></li>
+			<li><a href="">Rankings</a></li>
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<li><a href=""> <span class="glyphicon glyphicon-user"></span>Sign Up</a></li>
+		</ul>
+	</nav>
+
+	<div class="container"> 
+		<div class="row">
+		Filter: <input type="text" ng-model="search_filter"/>
+			<table class="table table-hover table-responsive">
+				<thead>
+					<th>Artist_Id</th>
+					<th>Artist_Name</th>
+					<th>Artist_Weight</th>
+				</thead>
+				<tbody>
+					<tr ng-repeat="p in data">
+						<td class>{{p.artist_id}}</td>
+						<td class>{{p.artist_name}}</td>						
+						<td class>{{p.artist_weight}}</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+</body>
+
+</html>

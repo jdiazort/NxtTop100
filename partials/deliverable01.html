@@ -1,0 +1,81 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<title>The Next Hot 100</title>	
+	</head>
+	<body>
+		<div class="container"> 
+                        <nav class="navbar navbar-inverse" style="margin-bottom:0">
+                                <div class="navbar-header">
+                                        <a class="navbar-brand" href="#">Home</a>
+                                </div>
+                                <div class="nav navbar-nav">
+                                        <li><a href="deliverable01.html">Stage01</a></li>
+                                </div>
+
+                                <div class="nav navbar-nav">
+                                        <li><a href="deliverable02.html">Stage02</a></li>
+                                </div>
+                        </nav>
+
+			<div class="row container">
+				<div class="jumbotron" style="height:20em">
+					<h1><b>Stage 01:</b>  Functional Description and ER Design</h1>
+				</div>
+				<div class="col-md-12">
+					<h3>Description</h3>
+					<p>We want to determine the future virality of music given analysis of past music on the Billboard Hot 100. We use statistical analysis of the artists. popularity, genres, albums, and label to determine the ranking of a song on the Hot 100. Given the data over the last 50 years, we should be able to recreate the chart at any point in time given past data. From here, we want to be able to predict the ranking of upcoming songs given history of the Hot 100. We.re producing a predictive tool for the most popular music in America in the future.</p>
+				</div>
+				<div class="col-md-12">
+					<h3>Usefulness</h3>
+					<p>This product has many use cases--some coming from direct analysis in our own lives. Personally, we find the hottest music at their immediate release or even before the immediate release. Whenever we attend a social gathering we take the liberty of premiering new music in which others are less enthusiastic about the song since they.ve never heard it before. However, in three months these people are partying to the same song we previously premiered. At a consumer level, this has less usefulness, but has much more application at the business to business scale. Companies creating marketing campaigns have a great starting spot to find the next hot track. Record labels can have a measurement tool to predict the success of their artists. Also, they can use this predictive model to help determine the risk of signing an artist to their label. I.m assuming all record labels have an in-house tool to help predict the sales of their artists, but this tool will encompass the wide range of all music. There is nothing like this available to consumers, the iTunes top songs are the closest predictive tool out there.</p>
+				</div>
+				<div class="col-md-12">
+					<h3>Realness</h3>
+					<p>The data we will use as our basis is the Billboard Hot 100. They have weekly updates of the top 100 songs in the United States dating back for the last fifty years, so that.s plenty of real data. From there, we will use Apple Music to get the data for upcoming music yet to be released.</p>
+				</div>
+				<div class="col-md-12">
+					<h3>Functionality</h3>
+					<div class="col-md-3">
+						<h3>Basic Functions</h3>
+						<ul>
+							<li><span class="glyphicon glyphicon-pencil" style:"font-size:50px"></span>  Insert/Delete/Update records on database.</li>
+							<li><span class="glyphicon glyphicon-off" style:"font-size:50px"></span>  Have real data in the system.</li>
+							<li><span class="glyphicon glyphicon-th-list" style:"font-size:50px"></span>  Search in database, print or list results.</li>
+						</ul>
+					</div>
+					<div class="col-md-9">
+						<h3>Advance Functions</h3>
+						<div class="row"> 
+							<div class="col-md-3">
+								<p><span class="glyphicon glyphicon-retweet" style:"font-size:50px"></span> Regression Algorithm</p>
+							</div>
+							<div class="col-md-9">
+								<p>In order to determine which songs will be at the top in the future, a regression algorithm would be set in place do determine how a particular song's attribute will influence its ranking in the future. Also, a similar algorithm will be creatd in order to analyze how songs have risen and fallen in and out of the top 100, and how attributes influences these rankings.</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-3">
+								<p><span class="glyphicon glyphicon-signal" style:"font-size:50px"></span> Predictive Trend Graphing</p>
+							</div>
+							<div class="col-md-9">
+								<p>Given a son, and the time since it has been released, a graph will be created projecting its rank in the bilboard top 100 until it falls out. Our program will store the data of how a song, depending on its different attributes, rises and falls in the top 100. Then, an algorithm will try to match the selected song's attributes to those in record (from the data we have from the previous 50 years) and try to match the selected gaph;s trend with that in one of the list. A confidence interval and correlation coefficient will be calculated as well in order to let the user now the accuracy of the prediction.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-12">
+						<h3>UML Diagram</h3>
+						<img src="../IMG_9063.JPG"/>
+					</div>
+					
+				</div>
+			</div>
+		
+
+
+
+		</div>
+	</body>
+</html>
+
+

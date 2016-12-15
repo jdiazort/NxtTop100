@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html ng-app="WebApp">
+<head>
+
+<!-- jQuery -->
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+ <!-- Angular.js-->
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<!-- Angular Route 1.5.7--> 
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.js"></script>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<!-- amCharts -->
+<script type="text/javascript" src="./src/amcharts.js"></script>
+<script type="text/javascript" src="./src/serial.js"></script>
+<script type="text/javascript" src="./src/pie.js"></script>
+
+<!-- <script src="http://tomalexander.co.nz/regression-js/jquery.flot.js"></script> -->
+<script src="./src/build/regression.min.js"></script>
+
+
+
+</head>
+
+<body ng-controller="MainController">
+
+<div ng-include="'partials/header.html'"></div>
+<div ng-view></div>
+<div ng-include="templates/footer.html"></div>
+
+
+<!-- Our apps javascript -->
+
+<script type="text/javascript" src="controllers/ArtistController.js"></script>
+<script type="text/javascript" src="controllers/AlbumsController.js"></script>
+<script type="text/javascript" src="controllers/RankingsController.js"></script>
+<script type="text/javascript" src="controllers/ChartsController.js"></script>
+<script type="text/javascript" src="controllers/oldHomeController.js"></script>
+<script type="text/javascript" src="controllers/projectionController.js"></script>
+
+
+<script type="text/javascript" src="main.js"></script>
+<!--<script type="text/javascript" src="controllers/ArtistsController.js"></script>-->
+
+</body>
+</html>
+

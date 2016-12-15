@@ -1,0 +1,55 @@
+<html>
+<head >
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/home1.css">
+	<script type="text/javascript"></script>
+	<title>{{HomeTitle}}</title>	
+</head>
+<body>
+
+	<nav class="navbar navbar-inverse">
+		<ul class="nav navbar-nav">
+			<li><a class="navbar-brand">NXT100</a></li>
+			<li><a href="">Home</a></li>
+			<li><a href="">Track</a></li>
+			<li><a href="">Charts</a></li>
+			<li><a href="#artist">Aritst</a></li>
+			<li><a href="#albums">Album</a></li>
+			<li><a href="">Rankings</a></li>
+		</ul>
+		<ul class="nav navbar-nav navbar-right">
+			<li><a href=""> <span class="glyphicon glyphicon-user"></span>Sign Up</a></li>
+		</ul>
+	</nav>
+
+	<div class="container"> 
+		<div class="row">
+		Filter: <input type="text" ng-model="search_filter"/>
+			<table class="table table-hover table-responsive">
+				<thead>
+					<th>Track_Id</th>
+					<th>Track_Name</th>
+					<th>rank_date</th>
+					<th>spot_pop</th>
+					<th>lastPop</th>
+					<th>weeks</th>
+					<th>rank</th>
+				</thead>
+				<tbody>
+					<tr ng-repeat="p in data">
+						<td class>{{p.track_id}}</td>
+						<td class>{{p.track_name}}</td>						
+						<td class>{{p.rank_date}}</td>
+						<td class>{{p.spot_pop}}</td>
+						<td class>{{p.lastPop}}</td>
+						<td class>{{p.weeks}}</td>
+						<td class>{{p.rank}}</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+</body>
+
+</html>

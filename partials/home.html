@@ -1,0 +1,80 @@
+<html>
+<head>
+		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<title>The Next Hot 100</title>	
+</head>
+<body>
+	<div class="container"> 
+		<div class="row">
+			<div class="jumbotron" style="height:20em">
+			<h1>{{HomeTitle}}</h1> 
+			</div>
+		</div>
+
+
+		<div class="row">
+			<div class="col-md-4"> 
+				<h3>Add Song</h3>
+				<form novalidate>
+					Song Name: 
+					<input type="text" ng-model="new_song.name" /> <br>
+					Artist:
+					<input type="text" ng-model="new_song.artist" /> <br>
+					Album:
+					<input type="text" ng-model="new_song.album" /> <br>
+				</form>
+				<button class="btn btn-warning" ng-click="addSong()">Add</button>
+			</div>
+			<div class="col-md-4"> 
+				<h3>Edit Song</h3>
+				<form novalidate>
+					Song Id: 
+					<input type="text" ng-model="edit_song.id" /> <br>
+					Song name:
+					<input type="text" ng-model="edit_song.name" /> <br>
+					Artist:
+					<input type="text" ng-model="edit_song.artist" /> <br>
+					Album:
+					<input type="text" ng-model="edit_song.album" /> <br>
+				</form>
+				<button class="btn btn-default" ng-click="editSong()">Edit</button>
+			</div>
+			<div class="col-md-4"> 
+				<h3>Filter by Artist</h3>
+				Artist Name:
+				<input type="text" ng-model="artist" /> <br>
+				Query: SELECT * FROM track WHERE artist_name={{artist}}
+				<button class="btn btn-default" ng-click="queryArtist(artist)">Query</button>
+			</div>
+		</div>
+
+
+
+		<div class="row">
+		Filter: <input type="text" ng-model="search_filter"/>
+			<table class="table table-hover table-responsive">
+				<thead>
+					<th>Id</th>
+					<th>Song</th>
+					<th>Artist</th>
+					<th>Album</th>
+					<th>Options</th>
+				</thead>
+				<tbody>
+					<tr ng-repeat="p in data">
+						<td class>{{p.track_id}}</td>
+						<td class>{{p.track_name}}</td>						
+						<td class>{{p.artist_name}}</td>
+						<td class>{{p.album}}</td>
+						<td>
+						<button ng-click="deleteEntry(p.track_id)">Delete</button> 
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+</body>
+
+</html>

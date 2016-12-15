@@ -1,0 +1,14 @@
+INSTRUCTIONS TO UPDATE DATABASE
+
+if done weekly:
+
+   First run 'python getBillboard.py' -- this will get the latest week in the billboard Top 100
+   Then run 'mysql -p hot100 < updateDB.sql' -- this will update the database with the new ranking and song information if it doesn't already exist
+
+if not done weekly:
+   get a rough estimate of how many weeks need to be added to the database, it is better to over estimate as the .sql file will not insert the duplicates into the database
+   you will need to change line 103 from range(0,1) to range(0, num_weeks_to_update)
+   run the command 'python getBillboard.py'
+   once that finishes run 'mysql -p hot100 < updateDB.sql'
+
+
